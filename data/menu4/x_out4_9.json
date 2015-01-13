@@ -1,0 +1,195 @@
+{
+    "leftMenu": {
+        "Left_Menu": [
+            {
+                "Menu_Title": "印刷机连线控制",
+                "Menu_Link": "product.asp?lbid=34&id=7"
+            },
+            {
+                "Menu_Title": "包装印刷品控",
+                "Menu_Link": "product.asp?lbid=33&id=7"
+            },
+            {
+                "Menu_Title": "车间品控",
+                "Menu_Link": "product.asp?lbid=32&id=7"
+            },
+            {
+                "Menu_Title": "应用案例",
+                "Menu_Link": "http://www.xrite.cn/case.asp"
+            },
+            {
+                "Menu_Title": "公司新闻",
+                "Menu_Link": "http://www.xrite.cn/news2007.asp?thisYear=2010"
+            },
+            {
+                "Menu_Title": "网上展台",
+                "Menu_Link": "http://www.xrite.cn/cp.asp"
+            }
+        ]
+    },
+    "subTitleTag": {
+        "SubTitle": [
+            {
+                "SubTitle_Item_Model": "色彩管理和交流解决方案",
+                "SubTitle_Item_Name": "适用于印刷工艺",
+                "SubTitle_Description": "连接色彩，从灵感到输出，从概念到消费者",
+                "SubTitle_Link": "20135/2013527183440.htm",
+                "SubTitle_src": "admin/upfile/20135271834400.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "IntelliTrax",
+                "SubTitle_Item_Name": "自动在线测色系统",
+                "SubTitle_Description": "用图表表示基于密度的印刷特性；必要时立即在屏幕上显示日期；通过色差来判定颜色，特别是转色的准确性",
+                "SubTitle_Link": "20135/2013527183317.htm",
+                "SubTitle_src": "admin/upfile/20135271833170.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "EasyTrax",
+                "SubTitle_Item_Name": "半自动色彩扫描系统",
+                "SubTitle_Description": "EasyTrax对于希望自动化工作流程并持续提供准备色彩的客户来说是最完美的解决方案。",
+                "SubTitle_Link": "20135/2013527183151.htm",
+                "SubTitle_src": "admin/upfile/20135271831510.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "ColorMaster",
+                "SubTitle_Item_Name": "专业色彩管理软件系列",
+                "SubTitle_Description": "缩短生产周期；提高色彩数据沟通效率；最大限度降低色彩浪费；建立多种色彩配方选择",
+                "SubTitle_Link": "20135/2013527182626.htm",
+                "SubTitle_src": "admin/upfile/20135271826260.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "色彩管理和交流解决方案",
+                "SubTitle_Item_Name": "适用于印刷工艺",
+                "SubTitle_Description": "连接色彩，从灵感到输出，从概念到消费者",
+                "SubTitle_Link": "20135/2013527173729.htm",
+                "SubTitle_src": "admin/upfile/20135271737290.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "色彩管理和交流解决方案",
+                "SubTitle_Item_Name": "适用于印刷工艺",
+                "SubTitle_Description": "连接色彩，从灵感到输出，从概念到消费者",
+                "SubTitle_Link": "20135/2013527175312.htm",
+                "SubTitle_src": "admin/upfile/20135271753120.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "939",
+                "SubTitle_Item_Name": "分光密度仪",
+                "SubTitle_Description": "权威的印刷色彩解决方案；无比的仪器台间差协议；极优良的适应性",
+                "SubTitle_Link": "20135/2013527175225.htm",
+                "SubTitle_src": "admin/upfile/20135271752250.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "500系列",
+                "SubTitle_Item_Name": "分光密度仪",
+                "SubTitle_Description": "光谱感应器技术测量；多种语言功能选择；大屏幕操作显示；简单校正指示",
+                "SubTitle_Link": "20135/2013527175021.htm",
+                "SubTitle_src": "admin/upfile/20135271750210.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectroEye",
+                "SubTitle_Item_Name": "分光密度仪",
+                "SubTitle_Description": "印刷工艺检测；适用于包装及商业印刷；测量颜色和密度简单又精确",
+                "SubTitle_Link": "20135/2013527174859.htm",
+                "SubTitle_src": "admin/upfile/20135271748590.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Package Solution",
+                "SubTitle_Item_Name": "Package Solution",
+                "SubTitle_Description": "有助于在您的整个包装工作流程中实现色彩准确性和一致性",
+                "SubTitle_Link": "20135/2013527174741.htm",
+                "SubTitle_src": "admin/upfile/20135271747410.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "ColorMunki Design",
+                "SubTitle_Item_Name": "颜色创意工具",
+                "SubTitle_Description": "作为色彩创意工具，ColorMunki可以将颜色数据传输至图形/图象软件",
+                "SubTitle_Link": "20135/2013527174611.htm",
+                "SubTitle_src": "admin/upfile/20135271746110.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "NetProfiler 3.0",
+                "SubTitle_Item_Name": "NetProfiler 3.0",
+                "SubTitle_Description": "基于云计算推出的软件与色彩标准综合工具，使企业可以查验、优化和认证色彩测量设备的性能。",
+                "SubTitle_Link": "20135/2013527174450.htm",
+                "SubTitle_src": "admin/upfile/20135271744500.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iQC Print",
+                "SubTitle_Item_Name": "色彩质量控制解决方案",
+                "SubTitle_Description": "适用于印刷和包装的创新色彩质量控制解决方案",
+                "SubTitle_Link": "20135/2013527174400.htm",
+                "SubTitle_src": "admin/upfile/20135271744000.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "eXact",
+                "SubTitle_Item_Name": "手持式分光光度仪",
+                "SubTitle_Description": "业内首个支持包括完整 M1 在内的所有 M 标准的分光光度仪，为客户提供真实日光测量条件的方法。",
+                "SubTitle_Link": "20135/2013527174228.htm",
+                "SubTitle_src": "admin/upfile/20135271742280.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Netprofiler2",
+                "SubTitle_Item_Name": "Netprofiler2",
+                "SubTitle_Description": "基于网络的仪器管理软件",
+                "SubTitle_Link": "20135/2013527173658.htm",
+                "SubTitle_src": "admin/upfile/20135271736580.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Judge II",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "专利技术改善灯管颜色表现；多个开关式光源，更准确地评审色彩；符合多个国际标准",
+                "SubTitle_Link": "20135/2013527173436.htm",
+                "SubTitle_src": "admin/upfile/20135271734360.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectroEye",
+                "SubTitle_Item_Name": "分光密度仪",
+                "SubTitle_Description": "印刷工艺检测；适用于包装及商业印刷；测量颜色和密度简单又精确",
+                "SubTitle_Link": "20135/2013527173322.htm",
+                "SubTitle_src": "admin/upfile/20135271733220.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "DensiEye 700",
+                "SubTitle_Item_Name": "分光密度仪",
+                "SubTitle_Description": "轻松的定位，快速的测量，中文大屏幕液晶显示，省时又高效",
+                "SubTitle_Link": "20135/2013527173143.htm",
+                "SubTitle_src": "admin/upfile/20135271731430.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "如何将500 系列－",
+                "SubTitle_Item_Name": "528 或530 分光密度仪用于G7 过程控制",
+                "SubTitle_Description": "通过528/530进行实地色调和灰平衡控制",
+                "SubTitle_Link": "20135/2013527173017.htm",
+                "SubTitle_src": "admin/upfile/20135271730170.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "500系列",
+                "SubTitle_Item_Name": "分光密度仪",
+                "SubTitle_Description": "光谱感应器技术测量；多种语言功能选择；大屏幕操作显示；简单校正指示",
+                "SubTitle_Link": "20135/2013527172840.htm",
+                "SubTitle_src": "admin/upfile/20135271728400.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "NetProfiler 3.0",
+                "SubTitle_Item_Name": "NetProfiler 3.0",
+                "SubTitle_Description": "基于云计算推出的软件与色彩标准综合工具，使企业可以查验、优化和认证色彩测量设备的性能。",
+                "SubTitle_Link": "20135/2013527172658.htm",
+                "SubTitle_src": "admin/upfile/20135271726580.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iQC Print",
+                "SubTitle_Item_Name": "色彩质量控制解决方案",
+                "SubTitle_Description": "适用于印刷和包装的创新色彩质量控制解决方案",
+                "SubTitle_Link": "20135/2013527172541.htm",
+                "SubTitle_src": "admin/upfile/20135271725410.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "eXact",
+                "SubTitle_Item_Name": "手持式分光光度仪",
+                "SubTitle_Description": "业内首个支持包括完整 M1 在内的所有 M 标准的分光光度仪，为客户提供真实日光测量条件的方法。",
+                "SubTitle_Link": "20135/2013527172309.htm",
+                "SubTitle_src": "admin/upfile/20135271723090.jpg"
+            }
+        ]
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "leftMenu": {
+        "Left_Menu": [
+            {
+                "Menu_Title": "全球采购解决方案",
+                "Menu_Link": "product.asp?lbid=20&id=3"
+            },
+            {
+                "Menu_Title": "印染配色解决方案",
+                "Menu_Link": "product.asp?lbid=19&id=3"
+            },
+            {
+                "Menu_Title": "现场测试及成品检验",
+                "Menu_Link": "product.asp?lbid=18&id=3"
+            },
+            {
+                "Menu_Title": "非接触测量",
+                "Menu_Link": "product.asp?lbid=17&id=3"
+            },
+            {
+                "Menu_Title": "人工对色",
+                "Menu_Link": "product.asp?lbid=16&id=3"
+            },
+            {
+                "Menu_Title": "面料设计",
+                "Menu_Link": "product.asp?lbid=15&id=3"
+            },
+            {
+                "Menu_Title": "应用案例",
+                "Menu_Link": "http://www.xrite.cn/case.asp"
+            },
+            {
+                "Menu_Title": "公司新闻",
+                "Menu_Link": "http://www.xrite.cn/news2007.asp?thisYear=2010"
+            },
+            {
+                "Menu_Title": "网上展台",
+                "Menu_Link": "http://www.xrite.cn/cp.asp"
+            }
+        ]
+    },
+    "subTitleTag": {
+        "SubTitle": [
+            {
+                "SubTitle_Item_Model": "Ci6x 系列™",
+                "SubTitle_Item_Name": "爱色丽 Ci6x 系列™",
+                "SubTitle_Description": "Ci6x 系列是一个完整的色彩管理解决方案，为终端用户的质量保证、质量控制和工艺控制",
+                "SubTitle_Link": "201310/20131014143603.htm",
+                "SubTitle_src": "admin/upfile/20131141009170.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectraLight III",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "世界上最精确的模拟日光；国际技术及标准协会认可；符合多个国际标准；Smart Logic技术",
+                "SubTitle_Link": "20135/2013527133826.htm",
+                "SubTitle_src": "admin/upfile/20135271338260.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Judge II",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "专利技术改善灯管颜色表现；多个开关式光源，更准确地评审色彩；符合多个国际标准",
+                "SubTitle_Link": "20135/2013527133503.htm",
+                "SubTitle_src": "admin/upfile/20135271335030.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectraLight QC",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "更优化的专利模拟日光技术，可生成多个品牌商的光源要求，更多光源选择，光源启动后即时稳定，照度可调节并自动控制，实时监控光源状态，精确的UV校准便于增白样品准确评估，生成可追溯的数据报告。",
+                "SubTitle_Link": "20135/2013527133359.htm",
+                "SubTitle_src": "admin/upfile/20135271333590.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "",
+                "SubTitle_Item_Name": "VS450 带光泽测量的非接触分光光度仪",
+                "SubTitle_Description": "采用45/0度几何光学结构设计，专用于涂料、粉体和塑料等各类干湿样品的颜色和光泽测量。",
+                "SubTitle_Link": "20135/2013527133229.htm",
+                "SubTitle_src": "admin/upfile/20135271332290.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "NetProfiler 3.0",
+                "SubTitle_Item_Name": "NetProfiler3.0色彩管理解决方案",
+                "SubTitle_Description": "一个易于使用的实用程序，可让您用来验证、优化和认证色彩测量设备的性能",
+                "SubTitle_Link": "20135/2013527133119.htm",
+                "SubTitle_src": "admin/upfile/20135271331190.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iQC",
+                "SubTitle_Item_Name": "颜色品质控制软件",
+                "SubTitle_Description": "简化整个颜色品管步骤，完全配合工作流程，方便分享颜色数据，更可兼容多种分光仪，沃尔玛全球采购指定使用",
+                "SubTitle_Link": "20135/2013527133009.htm",
+                "SubTitle_src": "admin/upfile/20135271330090.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SP64",
+                "SubTitle_Item_Name": "便携式积分球分光光度仪",
+                "SubTitle_Description": "轻巧设计，方便携带；0/8积分球光学几何设计；孔径可选4/8/14mm",
+                "SubTitle_Link": "20135/2013527132924.htm",
+                "SubTitle_src": "admin/upfile/20135271329240.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SP62",
+                "SubTitle_Item_Name": "便携式积分球分光光度仪",
+                "SubTitle_Description": "轻巧设计，方便携带；0/8积分球光学几何设计；孔径可选4/8/14mm",
+                "SubTitle_Link": "20135/2013527132832.htm",
+                "SubTitle_src": "admin/upfile/20135271328320.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SP60",
+                "SubTitle_Item_Name": "便携式积分球分光光度仪",
+                "SubTitle_Description": "轻巧设计，方便携带；0/8积分球光学几何设计；孔径8mm",
+                "SubTitle_Link": "20135/2013527132740.htm",
+                "SubTitle_src": "admin/upfile/20135271327400.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iQC Taper Option",
+                "SubTitle_Item_Name": "电脑自动色彩排序和组合系统",
+                "SubTitle_Description": "借助该程序，您可以使用CIELab 数据，然后将这些数据按数值 从大到小排序",
+                "SubTitle_Link": "20135/2013527132627.htm",
+                "SubTitle_src": "admin/upfile/20135271326270.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Ci52",
+                "SubTitle_Item_Name": "多功能台式分光光度仪",
+                "SubTitle_Description": "一款经济适用的多功能分光光度仪，外形轻巧，性能强大。可测",
+                "SubTitle_Link": "20135/2013527132449.htm",
+                "SubTitle_src": "admin/upfile/20135271324490.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "RM200QC",
+                "SubTitle_Item_Name": "便携式成像分光色差仪",
+                "SubTitle_Description": "轻巧易用，沟通表观色与真实色；确保从原料进厂批次色差控制到制成品出厂质量检验的色彩一致。",
+                "SubTitle_Link": "20135/2013527132340.htm",
+                "SubTitle_src": "admin/upfile/20135271323400.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iTextile",
+                "SubTitle_Item_Name": "快速、精确的质量控制与色彩配制软件",
+                "SubTitle_Description": "Color iTextile 软件是一款以文件为导向的软件解决方案，令您在评估色彩时无需反复猜测",
+                "SubTitle_Link": "20135/2013527131542.htm",
+                "SubTitle_src": "admin/upfile/20135271315420.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "NetProfiler 3.0",
+                "SubTitle_Item_Name": "NetProfiler3.0色彩管理解决方案",
+                "SubTitle_Description": "一个易于使用的实用程序，可让您用来验证、优化和认证色彩测量设备的性能",
+                "SubTitle_Link": "20135/2013527131306.htm",
+                "SubTitle_src": "admin/upfile/20135271313060.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "ColorEye 7000A",
+                "SubTitle_Item_Name": "台式分光光度仪",
+                "SubTitle_Description": "拥有卓越的仪器间一致性，超凡的精确性和显著的可重复性。无论工厂还是实验室，都是您进行精密颜色分析的最佳选择。沃尔玛全球采购指定使用",
+                "SubTitle_Link": "20135/2013527131136.htm",
+                "SubTitle_src": "admin/upfile/20135271311360.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color i7",
+                "SubTitle_Item_Name": "台式分光光度仪",
+                "SubTitle_Description": "全新Color i7为您开启精确，全球化的数字色彩工作流程，让您可以在世界任何地方准确配制出满足您生产所需的各种颜色-而且更快更经济。Target全球采购必备仪器",
+                "SubTitle_Link": "20135/2013527131048.htm",
+                "SubTitle_src": "admin/upfile/20135271310480.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color i5",
+                "SubTitle_Item_Name": "台式分光光度仪",
+                "SubTitle_Description": "三光束技术；反射及穿透式测量；自动调节及双重变焦镜头；自动调节紫外光",
+                "SubTitle_Link": "20135/2013527130943.htm",
+                "SubTitle_src": "admin/upfile/20135271309430.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iTextile",
+                "SubTitle_Item_Name": "快速、精确的质量控制与色彩配制软件",
+                "SubTitle_Description": "Color iTextile 软件是一款以文件为导向的软件解决方案，令您在评估色彩时无需反复猜测",
+                "SubTitle_Link": "20135/2013527130352.htm",
+                "SubTitle_src": "admin/upfile/20135271303520.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "NetProfiler 3.0",
+                "SubTitle_Item_Name": "NetProfiler3.0色彩管理解决方案",
+                "SubTitle_Description": "一个易于使用的实用程序，可让您用来验证、优化和认证色彩测量设备的性能",
+                "SubTitle_Link": "20135/2013527130144.htm",
+                "SubTitle_src": "admin/upfile/20135271301440.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iQC",
+                "SubTitle_Item_Name": "颜色品质控制软件",
+                "SubTitle_Description": "简化整个颜色品管步骤，完全配合工作流程，,方便分享颜色数据，更可兼容多种分光仪，沃尔玛全球采购指定使用",
+                "SubTitle_Link": "20135/2013527125952.htm",
+                "SubTitle_src": "admin/upfile/20135271259520.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "ColorEye 7000A",
+                "SubTitle_Item_Name": "台式分光光度仪",
+                "SubTitle_Description": "拥有卓越的仪器间一致性，超凡的精确性和显著的可重复性。无论工厂还是实验室，都是您进行精密颜色分析的最佳选择。沃尔玛全球采购指定使用",
+                "SubTitle_Link": "20135/2013527125443.htm",
+                "SubTitle_src": "admin/upfile/20135271254430.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectraLight III",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "世界上最精确的模拟日光；国际技术及标准协会认可；符合多个国际标准；Smart Logic技术",
+                "SubTitle_Link": "20135/2013527125337.htm",
+                "SubTitle_src": "admin/upfile/20135271253370.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color i7",
+                "SubTitle_Item_Name": "台式分光光度仪",
+                "SubTitle_Description": "全新Color i7为您开启精确，全球化的数字色彩工作流程，让您可以在世界任何地方准确配制出满足您生产所需的各种颜色",
+                "SubTitle_Link": "20135/2013527124813.htm",
+                "SubTitle_src": "admin/upfile/20135271248130.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "零售/服装业供应链",
+                "SubTitle_Item_Name": "色彩管理程序(XCP)",
+                "SubTitle_Description": "为您的色彩供应链提供认证, 确保实现全球供应链色彩的一致性和准确性",
+                "SubTitle_Link": "20135/2013527124711.htm",
+                "SubTitle_src": "admin/upfile/20135271247110.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "全球纺织采购供应链",
+                "SubTitle_Item_Name": "色彩解决方案",
+                "SubTitle_Description": "近几年来，越来越多的顶尖零售商和服装品牌厂家选择爱色丽作为自己的首选或共选色彩技术提供商",
+                "SubTitle_Link": "20135/2013527124543.htm",
+                "SubTitle_src": "admin/upfile/20135271245430.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectraLight QC",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "更优化的专利模拟日光技术，可生成多个品牌商的光源要求，更多光源选择，光源启动后即时稳定，照度可调节并自动控制，实时监控光源状态，精确的UV校准便于增白样品准确评估，生成可追溯的数据报告。",
+                "SubTitle_Link": "20135/2013527123451.htm",
+                "SubTitle_src": "admin/upfile/20135271234510.jpg"
+            }
+        ]
+    }
+}

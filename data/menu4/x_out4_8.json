@@ -1,0 +1,86 @@
+{
+    "leftMenu": {
+        "Left_Menu": [
+            {
+                "Menu_Title": "印前制版",
+                "Menu_Link": "product.asp?lbid=31&id=6"
+            },
+            {
+                "Menu_Title": "图像设计",
+                "Menu_Link": "product.asp?lbid=30&id=6"
+            },
+            {
+                "Menu_Title": "应用案例",
+                "Menu_Link": "http://www.xrite.cn/case.asp"
+            },
+            {
+                "Menu_Title": "公司新闻",
+                "Menu_Link": "http://www.xrite.cn/news2007.asp?thisYear=2010"
+            },
+            {
+                "Menu_Title": "网上展台",
+                "Menu_Link": "http://www.xrite.cn/cp.asp"
+            }
+        ]
+    },
+    "subTitleTag": {
+        "SubTitle": [
+            {
+                "SubTitle_Item_Model": "色彩管理和交流解决方案",
+                "SubTitle_Item_Name": "适用于印刷工艺",
+                "SubTitle_Description": "连接色彩，从灵感到输出，从概念到消费者",
+                "SubTitle_Link": "20135/2013527171815.htm",
+                "SubTitle_src": "admin/upfile/20135271718150.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "i1 Monitor",
+                "SubTitle_Item_Name": "显示器校准解决方案",
+                "SubTitle_Description": "可为所有类型的显示器准确校色并创建色彩特性描述文件，包括LCD、CRT和笔记本电脑显示器",
+                "SubTitle_Link": "20135/2013527171725.htm",
+                "SubTitle_src": "admin/upfile/20135271717250.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "色彩管理和交流解决方案",
+                "SubTitle_Item_Name": "适用于印刷工艺",
+                "SubTitle_Description": "连接色彩，从灵感到输出，从概念到消费者",
+                "SubTitle_Link": "20135/2013527171607.htm",
+                "SubTitle_src": "admin/upfile/20135271716070.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "i1 Monitor",
+                "SubTitle_Item_Name": "显示器校准解决方案",
+                "SubTitle_Description": "可为所有类型的显示器准确校色并创建色彩特性描述文件，包括LCD、CRT和笔记本电脑显示器",
+                "SubTitle_Link": "20135/2013527171540.htm",
+                "SubTitle_src": "admin/upfile/20135271715400.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "i1Pro2",
+                "SubTitle_Item_Name": "专业色彩管理解决方案",
+                "SubTitle_Description": "适用于图像、印前与数字印刷专业人士的新一代色彩管理与色彩配置解决方案",
+                "SubTitle_Link": "20135/2013527171248.htm",
+                "SubTitle_src": "admin/upfile/20135271712480.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "iSis",
+                "SubTitle_Item_Name": "专业影像/印刷与打印自动色表测量仪",
+                "SubTitle_Description": "i1产品线的衍生产品，专门针对需要测量大量色表或创建海量ICC测验图的专业色彩处理人员而设计",
+                "SubTitle_Link": "20135/2013527171052.htm",
+                "SubTitle_src": "admin/upfile/20135271710520.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "i1iO",
+                "SubTitle_Item_Name": "自动扫描台",
+                "SubTitle_Description": "全自动的快速色表测量装置，使i1Pro增加自动测量能力",
+                "SubTitle_Link": "20135/2013527170954.htm",
+                "SubTitle_src": "admin/upfile/20135271709540.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "eXact",
+                "SubTitle_Item_Name": "手持式分光光度仪",
+                "SubTitle_Description": "业内首个支持包括完整 M1 在内的所有 M 标准的分光光度仪，为客户提供真实日光测量条件的方法。",
+                "SubTitle_Link": "20135/2013527170832.htm",
+                "SubTitle_src": "admin/upfile/20135271708320.jpg"
+            }
+        ]
+    }
+}

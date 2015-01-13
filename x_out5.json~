@@ -1,0 +1,41 @@
+{
+    "text1": [
+        "LAB色空间是基于一种颜色不能同时既是蓝又是黄这个理论而建立。所以，单一数值可用于描述红/绿色及黄/蓝色特徽。当一种颜色用CIE  L*a*b*时，L* 表示明度值；a*表示红/绿及b*表示黄/蓝值。",
+        "CIE LCH颜色模型采用了同L*a*b*一样的颜色空间，但它采用L表示明度值；C表示饱和度值及H表示色调角度值得柱形坐标。"
+    ],
+    "text2": [
+        "公司主页",
+        "色彩教室",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "CIE 色空间坐标图",
+        "三维空间坐标与明度的变化",
+        "是否可以接受的颜色匹配？"
+    ],
+    "text3": [
+        "images/colour_01.jpg",
+        "images/un11.jpg",
+        "images/un2.jpg",
+        "images/un3.jpg",
+        "images/un4.jpg",
+        "images/un5.jpg",
+        "images/un6.jpg",
+        "images/colour_03.jpg",
+        "images/colour_04.jpg",
+        "images/but_01.jpg",
+        "images/but_01.jpg",
+        "images/colour_05.jpg",
+        "images/colour_06.jpg",
+        "images/colour_06.jpg",
+        "images/colour_06.jpg",
+        "images/colour_06.jpg",
+        "images/colour_06.jpg",
+        "images/colour_06.jpg"
+    ],
+    "text4": "",
+    "text5": ""
+}

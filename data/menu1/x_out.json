@@ -1,0 +1,304 @@
+{
+    "MainMenu": [
+        {
+            "Menu_title": "首页",
+            "Menu_subMenu": ""
+        },
+        {
+            "Menu_title": "公司动态",
+            "Menu_subMenu": [
+                {
+                    "Submenu_title": "公司新闻",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "市场信息",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "促销信息",
+                    "Submenu_link": ""
+                }
+            ]
+        },
+        {
+            "Menu_title": "公司介绍",
+            "Menu_subMenu": [
+                {
+                    "Submenu_title": "公司历史",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "分支机构",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "代理网络",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "代理专区",
+                    "Submenu_link": ""
+                }
+            ]
+        },
+        {
+            "Menu_title": "产品及应用",
+            "Menu_subMenu": [
+                {
+                    "Submenu_title": "食品",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "塑料",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "涂料",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "化妆品",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "纺织",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "汽车",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "数码影像",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "印前",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "印刷",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "油墨",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "其他",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "案例分析",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "技术文章",
+                    "Submenu_link": ""
+                }
+            ]
+        },
+        {
+            "Menu_title": "色彩教室",
+            "Menu_subMenu": []
+        },
+        {
+            "Menu_title": "维修中心",
+            "Menu_subMenu": [
+                {
+                    "Submenu_title": "维修中心介绍",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "售后服务流程",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "易耗配件销售流程",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "常见问题解答",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "产品注册",
+                    "Submenu_link": ""
+                }
+            ]
+        },
+        {
+            "Menu_title": "联系我们",
+            "Menu_subMenu": [
+                {
+                    "Submenu_title": "产品问询",
+                    "Submenu_link": ""
+                },
+                {
+                    "Submenu_title": "技术支持FAQ",
+                    "Submenu_link": ""
+                }
+            ]
+        }
+    ],
+    "href_link": [
+        "news2007.asp?thisYear=2014",
+        "shichang.asp",
+        "promotion13.asp",
+        "history.asp",
+        "location.asp",
+        "agent.asp",
+        "ftp.asp",
+        "product.asp?id=11",
+        "product.asp?id=1",
+        "product.asp?id=2",
+        "product.asp?id=10",
+        "product.asp?id=3",
+        "product.asp?id=4",
+        "product.asp?id=5",
+        "product.asp?id=6",
+        "product.asp?id=7",
+        "product.asp?id=8",
+        "product.asp?id=9",
+        "case-study.aspx",
+        "tech-article.aspx",
+        "service.asp",
+        "service2.asp",
+        "service3.asp",
+        "service4.asp",
+        "register.asp",
+        "contact.asp",
+        "FAQ.ASP"
+    ],
+    "SubMenu": {
+        "SubMenuTag": [
+            {
+                "SubMenu_title": "塑料",
+                "SubMenu_href": "http://www.xrite.cn/product.asp?id=1"
+            },
+            {
+                "SubMenu_title": "影像",
+                "SubMenu_href": "http://www.xrite.cn/product.asp?id=5"
+            },
+            {
+                "SubMenu_title": "涂料",
+                "SubMenu_href": "http://www.xrite.cn/product.asp?id=2"
+            },
+            {
+                "SubMenu_title": "印前",
+                "SubMenu_href": "http://www.xrite.cn/product.asp?id=6"
+            },
+            {
+                "SubMenu_title": "纺织",
+                "SubMenu_href": "http://www.xrite.cn/product.asp?id=3"
+            },
+            {
+                "SubMenu_title": "印刷",
+                "SubMenu_href": "http://www.xrite.cn/product.asp?id=7"
+            },
+            {
+                "SubMenu_title": "汽车",
+                "SubMenu_href": "http://www.xrite.cn/product.asp?id=4"
+            },
+            {
+                "SubMenu_title": "油墨",
+                "SubMenu_href": "http://www.xrite.cn/product.asp?id=8"
+            },
+            {
+                "SubMenu_title": "其它",
+                "SubMenu_href": "http://www.xrite.cn/product.asp?id=9"
+            }
+        ]
+    },
+    "FlashBanner": {
+        "SubBanner": [
+            {
+                "FlashBanner_src": "images/bannerflash1.jpg",
+                "FlashBanner_URL": "http://www.xrite.cn/product.asp?id=1"
+            },
+            {
+                "FlashBanner_src": "images/bannerflash2.jpg",
+                "FlashBanner_URL": "http://www.xrite.cn/product.asp?id=5"
+            },
+            {
+                "FlashBanner_src": "images/bannerflash3.jpg",
+                "FlashBanner_URL": "http://www.xrite.cn/product.asp?id=2"
+            },
+            {
+                "FlashBanner_src": "images/bannerflash4.jpg",
+                "FlashBanner_URL": "http://www.xrite.cn/product.asp?id=6"
+            },
+            {
+                "FlashBanner_src": "images/bannerflash5.jpg",
+                "FlashBanner_URL": "http://www.xrite.cn/product.asp?id=3"
+            },
+            {
+                "FlashBanner_src": "images/bannerflash6.jpg",
+                "FlashBanner_URL": "http://www.xrite.cn/product.asp?id=7"
+            },
+            {
+                "FlashBanner_src": "images/bannerflash7.jpg",
+                "FlashBanner_URL": "http://www.xrite.cn/product.asp?id=4"
+            },
+            {
+                "FlashBanner_src": "images/bannerflash8.jpg",
+                "FlashBanner_URL": "http://www.xrite.cn/product.asp?id=8"
+            }
+        ]
+    },
+    "Product_Display": {
+        "P_Display": [
+            {
+                "Description": "Food Solution 食品色彩分析和检验解决方案",
+                "Link": "http://www.xrite.cn/food.aspx",
+                "img_src": "images/f_orange.jpg"
+            },
+            {
+                "Description": "Ma系列\r\n          多角度分光光度仪",
+                "Link": "http://www.xrite.cn/ma9x.html",
+                "img_src": "http://www.xrite.cn/images/ma1.jpg"
+            },
+            {
+                "Description": "ColorMunki Display i1Display Pro 新品上市",
+                "Link": "http://www.xrite.cn/Display_solution.html",
+                "img_src": "http://www.xrite.cn/images/button-2011-08-1711.jpg"
+            }
+        ]
+    },
+    "Company_News": {
+        "img_Company_News": [
+            "admin/upfile/medal2.jpg"
+        ],
+        "C_News": [
+            {
+                "News_Description": "2014-08-22 爱色丽因其 Ci6x 系列积分球式分光光度仪  荣获享有盛誉的荣格创新大奖 凭借对塑料行业色彩测量和管理领域的创新而受到嘉奖 2014 年 8 月 21 日中国上海– 爱色丽（亚太）有限...",
+                "News_Link": "20148/20140822.htm"
+            },
+            {
+                "News_Description": " 2014-12-28 爱色丽圆满谢幕广州国际....   ",
+                "News_Link": "201410/20141228.htm"
+            },
+            {
+                "News_Description": " 2014-12-17 爱色丽宣布推出彩通认证....   ",
+                "News_Link": "201410/20141217.htm"
+            },
+            {
+                "News_Description": " 2014-11-24 爱色丽前往中国广州参展....   ",
+                "News_Link": "201410/20141124.htm"
+            },
+            {
+                "News_Description": " 2014-10-27 2014爱色丽色彩管理....   ",
+                "News_Link": "201410/20141027.htm"
+            },
+            {
+                "News_Description": " 2014-10-28 爱色丽与BenQ携手合....   ",
+                "News_Link": "201410/20141028.htm"
+            },
+            {
+                "News_Description": " 2014-10-27 更新： Yosemit....   ",
+                "News_Link": "201410/email.html"
+            }
+        ]
+    }
+}

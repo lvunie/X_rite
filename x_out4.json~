@@ -1,0 +1,233 @@
+{
+    "text1": "",
+    "text2": "",
+    "text3": "",
+    "text4": "",
+    "text5": "",
+    "leftMenu": {
+        "Left_Menu": [
+            {
+                "Menu_Title": "人工对色",
+                "Menu_Link": "product.asp?lbid=6&id=1"
+            },
+            {
+                "Menu_Title": "色彩管理解决方案",
+                "Menu_Link": "product.asp?lbid=5&id=1"
+            },
+            {
+                "Menu_Title": "非接触测量",
+                "Menu_Link": "product.asp?lbid=4&id=1"
+            },
+            {
+                "Menu_Title": "金属珠光效果品控",
+                "Menu_Link": "product.asp?lbid=3&id=1"
+            },
+            {
+                "Menu_Title": "成品检测及品管",
+                "Menu_Link": "product.asp?lbid=2&id=1"
+            },
+            {
+                "Menu_Title": "色母粒生产",
+                "Menu_Link": "product.asp?lbid=1&id=1"
+            },
+            {
+                "Menu_Title": "应用案例",
+                "Menu_Link": "http://www.xrite.cn/case.asp"
+            },
+            {
+                "Menu_Title": "公司新闻",
+                "Menu_Link": "http://www.xrite.cn/news2007.asp?thisYear=2010"
+            },
+            {
+                "Menu_Title": "网上展台",
+                "Menu_Link": "http://www.xrite.cn/cp.asp"
+            }
+        ]
+    },
+    "subTitleTag": {
+        "SubTitle": [
+            {
+                "SubTitle_Item_Model": "Ci6x 系列™",
+                "SubTitle_Item_Name": "爱色丽 Ci6x 系列™",
+                "SubTitle_Description": "Ci6x 系列是一个完整的色彩管理解决方案，为终端用户的质量保证、质量控制和工艺控制",
+                "SubTitle_Link": "201310/20131014142659.htm",
+                "SubTitle_src": "admin/upfile/201310151405270.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "ColorMaster",
+                "SubTitle_Item_Name": "专业色彩管理软件系列",
+                "SubTitle_Description": "缩短生产周期；提高色彩数据沟通效率；最大限度降低色彩浪费；建立多种色彩配方选择",
+                "SubTitle_Link": "20135/2013523200332.htm",
+                "SubTitle_src": "admin/upfile/ColorMaster.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "ColorEye 7000A",
+                "SubTitle_Item_Name": "台式分光光度仪",
+                "SubTitle_Description": "拥有卓越的仪器间一致性，超凡的精确性和显著的可重复性。无论工厂还是实验室，都是您进行精密颜色分析的最佳选择。沃尔玛全球采购指定使用",
+                "SubTitle_Link": "20135/2013523195127.htm",
+                "SubTitle_src": "admin/upfile/product_a_07.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "PlasticsSolution",
+                "SubTitle_Item_Name": "塑料行业色彩管理解决方案",
+                "SubTitle_Description": "色彩就是力量,无论是建立一个公司的企业形象,品牌或新产品,首先映入眼帘的就是色彩,给人以不同的感受,并且留下难以忘怀的第一印象,从而使您的形象或产品脱颖而出。",
+                "SubTitle_Link": "20135/2013524163343.htm",
+                "SubTitle_src": "admin/upfile/20135241633430.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "VeriColor Spectro",
+                "SubTitle_Item_Name": "VeriColor Spectro",
+                "SubTitle_Description": "经济型非接触式在线色彩测量解决方案，可为工艺过程控制提供反射光谱和色度数据，从而提高质量控制水平并节约运营开支",
+                "SubTitle_Link": "20135/2013524151217.htm",
+                "SubTitle_src": "admin/upfile/20135241512170.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "RM200QC",
+                "SubTitle_Item_Name": "便携式成像分光色差仪",
+                "SubTitle_Description": "轻巧易用，沟通表观色与真实色；确保从原料进厂批次色差控制到制成品出厂质量检验的色彩一致。",
+                "SubTitle_Link": "20135/2013524132025.htm",
+                "SubTitle_src": "admin/upfile/20135241320250.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SP64",
+                "SubTitle_Item_Name": "便携式积分球分光光度仪",
+                "SubTitle_Description": "轻巧设计，方便携带；0/8积分球光学几何设计；孔径可选4/8/14mm",
+                "SubTitle_Link": "20135/2013524133615.htm",
+                "SubTitle_src": "admin/upfile/20135241336150.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SP62",
+                "SubTitle_Item_Name": "便携式积分球分光光度仪",
+                "SubTitle_Description": "轻巧设计，方便携带；0/8积分球光学几何设计；孔径可选4/8/14mm",
+                "SubTitle_Link": "20135/2013524133436.htm",
+                "SubTitle_src": "admin/upfile/20135241334360.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SP60",
+                "SubTitle_Item_Name": "便携式积分球分光光度仪",
+                "SubTitle_Description": "轻巧设计，方便携带；0/8积分球光学几何设计；孔径8mm",
+                "SubTitle_Link": "20135/2013524132829.htm",
+                "SubTitle_src": "admin/upfile/20135241328290.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iQC Taper Option",
+                "SubTitle_Item_Name": "电脑自动色彩排序和组合系统",
+                "SubTitle_Description": "借助该程序，您可以使用CIELab 数据，然后将这些数据按数值 从大到小排序",
+                "SubTitle_Link": "20135/2013524132504.htm",
+                "SubTitle_src": "admin/upfile/20135241325040.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "FM 100 Hue Test",
+                "SubTitle_Item_Name": "辨色能力测试工具",
+                "SubTitle_Description": "全球各大公司推荐使用的辨色能力测试工具，被各国政府组织机构以及各行业广泛使用近半个世纪",
+                "SubTitle_Link": "20135/201352491200.htm",
+                "SubTitle_src": "admin/upfile/huetest.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectraLight III",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "世界上最精确的模拟日光；国际技术及标准协会认可；符合多个国际标准；Smart Logic技术",
+                "SubTitle_Link": "20135/201352490836.htm",
+                "SubTitle_src": "admin/upfile/2013524908360.png"
+            },
+            {
+                "SubTitle_Item_Model": "Judge II",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "专利技术改善灯管颜色表现；多个开关式光源，更准确地评审色彩；符合多个国际标准",
+                "SubTitle_Link": "20135/201352490322.htm",
+                "SubTitle_src": "admin/upfile/judge_ii.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectraLight QC",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "更优化的专利模拟日光技术，可生成多个品牌商的光源要求，更多光源选择，光源启动后即时稳定，照度可调节并自动控制，实时监控光源状态，精确的UV校准便于增白样品准确评估，生成可追溯的数据报告。",
+                "SubTitle_Link": "20135/201352485626.htm",
+                "SubTitle_src": "admin/upflie/SPLQC.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "VS450 带光泽测量的非接触分光光度仪",
+                "SubTitle_Item_Name": "VS450 带光泽测量的非接触分光光度仪",
+                "SubTitle_Description": "采用45/0度几何光学结构设计，专用于涂料、粉体和塑料等各类干湿样品的颜色和光泽测量。",
+                "SubTitle_Link": "20135/201352485323.htm",
+                "SubTitle_src": "admin/upfile/10-15.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Metallix-QA",
+                "SubTitle_Item_Name": "汽车专业颜色品控软件",
+                "SubTitle_Description": "特别为MA68II多角度分光光度仪而设计的色彩控制软件；适用于汽车工业内金属涂料和配件数据分析等",
+                "SubTitle_Link": "20135/201352485042.htm",
+                "SubTitle_src": "admin/upfile/metallix.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "MA68II",
+                "SubTitle_Item_Name": "多角度分光光度仪",
+                "SubTitle_Description": "测量汽车车身金属或珠光颜色；测量汽车内、外饰件颜色；测量汽车轮毂铝粉效果",
+                "SubTitle_Link": "20135/201352484939.htm",
+                "SubTitle_src": "admin/upflie/ma68.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "MA9x系列",
+                "SubTitle_Item_Name": "多角度分光光度仪",
+                "SubTitle_Description": "测量特效色彩的便携式多角度分光产品",
+                "SubTitle_Link": "20135/201352484403.htm",
+                "SubTitle_src": "admin/upfile/2013524844030.png"
+            },
+            {
+                "SubTitle_Item_Model": "Color iQC",
+                "SubTitle_Item_Name": "颜色品质控制软件",
+                "SubTitle_Description": "简化整个颜色品管步骤，完全配合工作流程，方便分享颜色数据，更可兼容多种分光仪，沃尔玛全球采购指定使用",
+                "SubTitle_Link": "20135/2013523200244.htm",
+                "SubTitle_src": "admin/upflie/iqc.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "NetProfiler 3.0",
+                "SubTitle_Item_Name": "NetProfiler3.0色彩管理解决方案",
+                "SubTitle_Description": "一个易于使用的实用程序，可让您用来验证、优化和认证色彩测量设备的性能",
+                "SubTitle_Link": "20135/2013523195334.htm",
+                "SubTitle_src": "admin/upfile/product_a_06.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "NetProfiler 3.0",
+                "SubTitle_Item_Name": "NetProfiler3.0色彩管理解决方案",
+                "SubTitle_Description": "一个易于使用的实用程序，可让您用来验证、优化和认证色彩测量设备的性能",
+                "SubTitle_Link": "20135/2013523195019.htm",
+                "SubTitle_src": "admin/upfile/product_a_06.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "ColorMaster",
+                "SubTitle_Item_Name": "专业色彩管理软件系列",
+                "SubTitle_Description": "缩短生产周期；提高色彩数据沟通效率；最大限度降低色彩浪费；建立多种色彩配方选择",
+                "SubTitle_Link": "20135/2013523194730.htm",
+                "SubTitle_src": "admin/upfile/product_a_05.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iMatch_CA",
+                "SubTitle_Item_Name": "工业类配色软件",
+                "SubTitle_Description": "广泛应用于涂料塑料油漆颜料等各行业的配色软件，崭新计算理论Multi Flux能同时处理不同底材及所需的通明度/遮盖力",
+                "SubTitle_Link": "20135/2013523194606.htm",
+                "SubTitle_src": "admin/upfile/product_a_04.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color i7",
+                "SubTitle_Item_Name": "台式分光光度仪",
+                "SubTitle_Description": "全新Color i7为您开启精确,全球化的数字色彩工作流程,让您可以在世界任何地方准确配制出满足您生产所需的各种颜色-而且更快更经济.Target全球采购必备仪器",
+                "SubTitle_Link": "20135/2013523194410.htm",
+                "SubTitle_src": "admin/upfile/product_a_03.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color i5",
+                "SubTitle_Item_Name": "台式分光光度仪",
+                "SubTitle_Description": "三光束技术;反射及穿透式测量;自动调节及双重变焦镜头;自动调节紫外光",
+                "SubTitle_Link": "20135/2013523194249.htm",
+                "SubTitle_src": "admin/upfile/product_a_02.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Ci52",
+                "SubTitle_Item_Name": "多功能台式分光光度仪",
+                "SubTitle_Description": "一款经济适用的多功能分光光度仪，外形轻巧，性能强大。可测",
+                "SubTitle_Link": "20135/2013523194157.htm",
+                "SubTitle_src": "admin/upfile/ma104.jpg"
+            }
+        ]
+    }
+}

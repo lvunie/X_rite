@@ -1,0 +1,357 @@
+{
+    "leftMenu": {
+        "Left_Menu": [
+            {
+                "Menu_Title": "化妆笔解决方案",
+                "Menu_Link": "product.asp?lbid=43&id=10"
+            },
+            {
+                "Menu_Title": "香水/爽肤水解决方案",
+                "Menu_Link": "product.asp?lbid=42&id=10"
+            },
+            {
+                "Menu_Title": "指甲油解决方案",
+                "Menu_Link": "product.asp?lbid=41&id=10"
+            },
+            {
+                "Menu_Title": "粉/霜解决方案",
+                "Menu_Link": "product.asp?lbid=40&id=10"
+            },
+            {
+                "Menu_Title": "唇膏解决方案",
+                "Menu_Link": "product.asp?lbid=39&id=10"
+            },
+            {
+                "Menu_Title": "应用案例",
+                "Menu_Link": "http://www.xrite.cn/case.asp"
+            },
+            {
+                "Menu_Title": "公司新闻",
+                "Menu_Link": "http://www.xrite.cn/news2007.asp?thisYear=2010"
+            },
+            {
+                "Menu_Title": "网上展台",
+                "Menu_Link": "http://www.xrite.cn/cp.asp"
+            }
+        ]
+    },
+    "subTitleTag": {
+        "SubTitle": [
+            {
+                "SubTitle_Item_Model": "CAPSURE ™  Cosmetic",
+                "SubTitle_Item_Name": "化妆品行业的便携式色彩匹配解决方案",
+                "SubTitle_Description": "X-Rite CAPSURE ™  Cosmetic 化妆品行业的便携式色彩匹配解决方案",
+                "SubTitle_Link": "20146/2014/6/27171612.htm",
+                "SubTitle_src": "admin/upfile/2014/6/271719440.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "FM 100 Hue Test",
+                "SubTitle_Item_Name": "辨色能力测试工具",
+                "SubTitle_Description": "全球各大公司推荐使用的辨色能力测试工具，被各国政府组织机构以及各行业广泛使用近半个世纪",
+                "SubTitle_Link": "20135/2013527105716.htm",
+                "SubTitle_src": "admin/upfile/20135271057160.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectraLight III",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "世界上最精确的模拟日光；国际技术及标准协会认可；符合多个国际标准；Smart Logic技术",
+                "SubTitle_Link": "20135/2013527105557.htm",
+                "SubTitle_src": "admin/upfile/20135271055570.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Judge II",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "专利技术改善灯管颜色表现；多个开关式光源，更准确地评审色彩；符合多个国际标准",
+                "SubTitle_Link": "20135/2013527105416.htm",
+                "SubTitle_src": "admin/upfile/20135271054160.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "NetProfiler",
+                "SubTitle_Item_Name": "互联网自动校正软件",
+                "SubTitle_Description": "通过国际互联网提供分光光度仪的能力测试,校正并修正分光光度仪,从而解决引起分光仪数据漂移的典型问题,时刻保证您的仪器测量的准确性",
+                "SubTitle_Link": "20135/2013527105329.htm",
+                "SubTitle_src": "admin/upfile/20135271053290.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iQC",
+                "SubTitle_Item_Name": "颜色品质控制软件",
+                "SubTitle_Description": "简化整个颜色品管步骤,完全配合工作流程,方便分享颜色数据,更可兼容多种分光仪,沃尔玛全球采购指定使用",
+                "SubTitle_Link": "20135/2013527105243.htm",
+                "SubTitle_src": "admin/upfile/20135271052430.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iMatch_CA",
+                "SubTitle_Item_Name": "工业类配色软件",
+                "SubTitle_Description": "广泛应用于涂料塑料油漆颜料等各行业的配色软件,崭新计算理论Multi Flux能同时处理不同底材及所需的通明度/遮盖力",
+                "SubTitle_Link": "20135/2013527105156.htm",
+                "SubTitle_src": "admin/upfile/20135271051560.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "MA98",
+                "SubTitle_Item_Name": "便携式多角度分光光度仪",
+                "SubTitle_Description": "新一代多角度颜色测量工具，是对于金属色、珠光色及其他复杂的特殊效果颜色产品提供色彩测量",
+                "SubTitle_Link": "20135/2013527105016.htm",
+                "SubTitle_src": "admin/upfile/20135271050160.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "",
+                "SubTitle_Item_Name": "VS450 带光泽测量的非接触分光光度仪",
+                "SubTitle_Description": "采用45/0度几何光学结构设计，专用于涂料、粉体和塑料等各类干湿样品的颜色和光泽测量。",
+                "SubTitle_Link": "20135/2013527104917.htm",
+                "SubTitle_src": "admin/upfile/20135271049170.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "化妆品行业",
+                "SubTitle_Item_Name": "色彩管理解决方案",
+                "SubTitle_Description": "化妆品行业解决方案",
+                "SubTitle_Link": "20135/2013527104816.htm",
+                "SubTitle_src": "admin/upfile/20135271048160.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "FM 100 Hue Test",
+                "SubTitle_Item_Name": "辨色能力测试工具",
+                "SubTitle_Description": "全球各大公司推荐使用的辨色能力测试工具，被各国政府组织机构以及各行业广泛使用近半个世纪",
+                "SubTitle_Link": "20135/2013527104303.htm",
+                "SubTitle_src": "admin/upfile/20135271043030.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectraLight III",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "世界上最精确的模拟日光；国际技术及标准协会认可；符合多个国际标准；Smart Logic技术",
+                "SubTitle_Link": "20135/2013527104203.htm",
+                "SubTitle_src": "admin/upfile/20135271042030.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Judge II",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "专利技术改善灯管颜色表现；多个开关式光源，更准确地评审色彩；符合多个国际标准",
+                "SubTitle_Link": "20135/2013527104039.htm",
+                "SubTitle_src": "admin/upfile/20135271040390.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "NetProfiler",
+                "SubTitle_Item_Name": "互联网自动校正软件",
+                "SubTitle_Description": "通过国际互联网提供分光光度仪的能力测试,校正并修正分光光度仪,从而解决引起分光仪数据漂移的典型问题,时刻保证您的仪器测量的准确性",
+                "SubTitle_Link": "20135/2013527103832.htm",
+                "SubTitle_src": "admin/upfile/20135271038320.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iQC",
+                "SubTitle_Item_Name": "颜色品质控制软件",
+                "SubTitle_Description": "简化整个颜色品管步骤,完全配合工作流程,方便分享颜色数据,更可兼容多种分光仪,沃尔玛全球采购指定使用",
+                "SubTitle_Link": "20135/2013527103523.htm",
+                "SubTitle_src": "admin/upfile/20135271035230.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iMatch_CA",
+                "SubTitle_Item_Name": "工业类配色软件",
+                "SubTitle_Description": "广泛应用于涂料塑料油漆颜料等各行业的配色软件,崭新计算理论Multi Flux能同时处理不同底材及所需的通明度/遮盖力",
+                "SubTitle_Link": "20135/2013527103327.htm",
+                "SubTitle_src": "admin/upfile/20135271033270.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color i5",
+                "SubTitle_Item_Name": "台式分光光度仪",
+                "SubTitle_Description": "1三光束技术；反射及穿透式测量；自动调节及双重变焦镜头；自动调节紫外光",
+                "SubTitle_Link": "20135/2013527103114.htm",
+                "SubTitle_src": "admin/upfile/20135271031140.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "化妆品行业",
+                "SubTitle_Item_Name": "色彩管理解决方案",
+                "SubTitle_Description": "化妆品行业解决方案",
+                "SubTitle_Link": "20135/2013527102930.htm",
+                "SubTitle_src": "admin/upfile/20135271029300.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "FM 100 Hue Test",
+                "SubTitle_Item_Name": "辨色能力测试工具",
+                "SubTitle_Description": "全球各大公司推荐使用的辨色能力测试工具，被各国政府组织机构以及各行业广泛使用近半个世纪",
+                "SubTitle_Link": "20135/2013524174852.htm",
+                "SubTitle_src": "admin/upfile/20135241748520.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectraLight III",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "世界上最精确的模拟日光；国际技术及标准协会认可；符合多个国际标准；Smart Logic技术",
+                "SubTitle_Link": "20135/2013524174444.htm",
+                "SubTitle_src": "admin/upfile/20135241744440.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Judge II",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "专利技术改善灯管颜色表现；多个开关式光源，更准确地评审色彩；符合多个国际标准",
+                "SubTitle_Link": "20135/2013524174327.htm",
+                "SubTitle_src": "admin/upfile/20135241743270.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "NetProfiler",
+                "SubTitle_Item_Name": "互联网自动校正软件",
+                "SubTitle_Description": "通过国际互联网提供分光光度仪的能力测试,校正并修正分光光度仪,从而解决引起分光仪数据漂移的典型问题,时刻保证您的仪器测量的准确性",
+                "SubTitle_Link": "20135/2013524174046.htm",
+                "SubTitle_src": "admin/upfile/20135241740460.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iQC",
+                "SubTitle_Item_Name": "颜色品质控制软件",
+                "SubTitle_Description": "简化整个颜色品管步骤,完全配合工作流程,方便分享颜色数据,更可兼容多种分光仪,沃尔玛全球采购指定使用",
+                "SubTitle_Link": "20135/2013524173733.htm",
+                "SubTitle_src": "admin/upfile/20135241737330.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iMatch_CA",
+                "SubTitle_Item_Name": "工业类配色软件",
+                "SubTitle_Description": "广泛应用于涂料塑料油漆颜料等各行业的配色软件,崭新计算理论Multi Flux能同时处理不同底材及所需的通明度/遮盖力",
+                "SubTitle_Link": "20135/2013524173532.htm",
+                "SubTitle_src": "admin/upfile/20135241735320.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "MA98",
+                "SubTitle_Item_Name": "便携式多角度分光光度仪",
+                "SubTitle_Description": "新一代多角度颜色测量工具，是对于金属色、珠光色及其他复杂的特殊效果颜色产品提供色彩测量",
+                "SubTitle_Link": "20135/2013524173348.htm",
+                "SubTitle_src": "admin/upfile/20135241733480.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "",
+                "SubTitle_Item_Name": "VS450 带光泽测量的非接触分光光度仪",
+                "SubTitle_Description": "采用45/0度几何光学结构设计，专用于涂料、粉体和塑料等各类干湿样品的颜色和光泽测量。",
+                "SubTitle_Link": "20135/2013524173158.htm",
+                "SubTitle_src": "admin/upfile/20135241731580.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "化妆品行业",
+                "SubTitle_Item_Name": "色彩管理解决方案",
+                "SubTitle_Description": "化妆品行业解决方案",
+                "SubTitle_Link": "20135/2013524172959.htm",
+                "SubTitle_src": "admin/upfile/20135241729590.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "FM 100 Hue Test",
+                "SubTitle_Item_Name": "辨色能力测试工具",
+                "SubTitle_Description": "全球各大公司推荐使用的辨色能力测试工具，被各国政府组织机构以及各行业广泛使用近半个世纪",
+                "SubTitle_Link": "20135/2013524172554.htm",
+                "SubTitle_src": "admin/upfile/20135241725540.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectraLight III",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "世界上最精确的模拟日光；国际技术及标准协会认可；符合多个国际标准；Smart Logic技术",
+                "SubTitle_Link": "20135/2013524172457.htm",
+                "SubTitle_src": "admin/upfile/20135241724570.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Judge II",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "专利技术改善灯管颜色表现；多个开关式光源，更准确地评审色彩；符合多个国际标准",
+                "SubTitle_Link": "20135/2013524172401.htm",
+                "SubTitle_src": "admin/upfile/20135241724010.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "NetProfiler",
+                "SubTitle_Item_Name": "互联网自动校正软件",
+                "SubTitle_Description": "通过国际互联网提供分光光度仪的能力测试,校正并修正分光光度仪,从而解决引起分光仪数据漂移的典型问题,时刻保证您的仪器测量的准确性",
+                "SubTitle_Link": "20135/2013524172241.htm",
+                "SubTitle_src": "admin/upfile/20135241722410.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iQC",
+                "SubTitle_Item_Name": "颜色品质控制软件",
+                "SubTitle_Description": "简化整个颜色品管步骤,完全配合工作流程,方便分享颜色数据,更可兼容多种分光仪,沃尔玛全球采购指定使用",
+                "SubTitle_Link": "20135/2013524172122.htm",
+                "SubTitle_src": "admin/upfile/20135241721220.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iMatch_CA",
+                "SubTitle_Item_Name": "工业类配色软件",
+                "SubTitle_Description": "广泛应用于涂料塑料油漆颜料等各行业的配色软件,崭新计算理论Multi Flux能同时处理不同底材及所需的通明度/遮盖力",
+                "SubTitle_Link": "20135/2013524171921.htm",
+                "SubTitle_src": "admin/upfile/20135241719210.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "MA98",
+                "SubTitle_Item_Name": "便携式多角度分光光度仪",
+                "SubTitle_Description": "新一代多角度颜色测量工具，是对于金属色、珠光色及其他复杂的特殊效果颜色产品提供色彩测量",
+                "SubTitle_Link": "20135/2013524171741.htm",
+                "SubTitle_src": "admin/upfile/20135241717410.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "",
+                "SubTitle_Item_Name": "VS450 带光泽测量的非接触分光光度仪",
+                "SubTitle_Description": "采用45/0度几何光学结构设计，专用于涂料、粉体和塑料等各类干湿样品的颜色和光泽测量。",
+                "SubTitle_Link": "20135/2013524171542.htm",
+                "SubTitle_src": "admin/upfile/20135241715420.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "化妆品行业",
+                "SubTitle_Item_Name": "色彩管理解决方案",
+                "SubTitle_Description": "化妆品行业解决方案",
+                "SubTitle_Link": "20135/2013524171427.htm",
+                "SubTitle_src": "admin/upfile/20135241714270.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "FM 100 Hue Test",
+                "SubTitle_Item_Name": "辨色能力测试工具",
+                "SubTitle_Description": "全球各大公司推荐使用的辨色能力测试工具，被各国政府组织机构以及各行业广泛使用近半个世纪",
+                "SubTitle_Link": "20135/2013524171135.htm",
+                "SubTitle_src": "admin/upfile/20135241711350.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectraLight III",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "世界上最精确的模拟日光；国际技术及标准协会认可；符合多个国际标准；Smart Logic技术",
+                "SubTitle_Link": "20135/2013524171010.htm",
+                "SubTitle_src": "admin/upfile/20135241710100.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Judge II",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "专利技术改善灯管颜色表现；多个开关式光源，更准确地评审色彩；符合多个国际标准",
+                "SubTitle_Link": "20135/2013524170911.htm",
+                "SubTitle_src": "admin/upfile/20135241709110.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "NetProfiler",
+                "SubTitle_Item_Name": "互联网自动校正软件",
+                "SubTitle_Description": "通过国际互联网提供分光光度仪的能力测试,校正并修正分光光度仪,从而解决引起分光仪数据漂移的典型问题,时刻保证您的仪器测量的准确性",
+                "SubTitle_Link": "20135/2013524170606.htm",
+                "SubTitle_src": "admin/upfile/20135241706060.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iQC",
+                "SubTitle_Item_Name": "颜色品质控制软件",
+                "SubTitle_Description": "简化整个颜色品管步骤,完全配合工作流程,方便分享颜色数据,更可兼容多种分光仪,沃尔玛全球采购指定使用",
+                "SubTitle_Link": "20135/2013524170332.htm",
+                "SubTitle_src": "admin/upfile/20135241703320.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iMatch_CA",
+                "SubTitle_Item_Name": "工业类配色软件",
+                "SubTitle_Description": "广泛应用于涂料塑料油漆颜料等各行业的配色软件,崭新计算理论Multi Flux能同时处理不同底材及所需的通明度/遮盖力",
+                "SubTitle_Link": "20135/2013524170211.htm",
+                "SubTitle_src": "admin/upfile/20135241702110.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "MA98",
+                "SubTitle_Item_Name": "便携式多角度分光光度仪",
+                "SubTitle_Description": "新一代多角度颜色测量工具，是对于金属色、珠光色及其他复杂的特殊效果颜色产品提供色彩测量",
+                "SubTitle_Link": "20135/2013524165943.htm",
+                "SubTitle_src": "admin/upfile/20135241659430.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "",
+                "SubTitle_Item_Name": "VS450 带光泽测量的非接触分光光度仪",
+                "SubTitle_Description": "采用45/0度几何光学结构设计，专用于涂料、粉体和塑料等各类干湿样品的颜色和光泽测量。",
+                "SubTitle_Link": "20135/2013524165630.htm",
+                "SubTitle_src": "admin/upfile/20135241656300.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "化妆品行业",
+                "SubTitle_Item_Name": "色彩管理解决方案",
+                "SubTitle_Description": "化妆品行业解决方案",
+                "SubTitle_Link": "20135/2013524165546.htm",
+                "SubTitle_src": "admin/upfile/20135241655460.jpg"
+            }
+        ]
+    }
+}

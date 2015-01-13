@@ -1,0 +1,112 @@
+{
+    "leftMenu": {
+        "Left_Menu": [
+            {
+                "Menu_Title": "软件",
+                "Menu_Link": "product.asp?lbid=48&id=11"
+            },
+            {
+                "Menu_Title": "视觉产品",
+                "Menu_Link": "product.asp?lbid=47&id=11"
+            },
+            {
+                "Menu_Title": "非接触测量",
+                "Menu_Link": "product.asp?lbid=46&id=11"
+            },
+            {
+                "Menu_Title": "台式仪器",
+                "Menu_Link": "product.asp?lbid=45&id=11"
+            },
+            {
+                "Menu_Title": "色彩管理解决方案",
+                "Menu_Link": "product.asp?lbid=44&id=11"
+            },
+            {
+                "Menu_Title": "应用案例",
+                "Menu_Link": "http://www.xrite.cn/case.asp"
+            },
+            {
+                "Menu_Title": "公司新闻",
+                "Menu_Link": "http://www.xrite.cn/news2007.asp?thisYear=2010"
+            },
+            {
+                "Menu_Title": "网上展台",
+                "Menu_Link": "http://www.xrite.cn/cp.asp"
+            }
+        ]
+    },
+    "subTitleTag": {
+        "SubTitle": [
+            {
+                "SubTitle_Item_Model": "Color iQC/iMatch v6.1",
+                "SubTitle_Item_Name": "Color iQC/iMatch v6.1",
+                "SubTitle_Description": "2009全新推出,专为供应链设计",
+                "SubTitle_Link": "20135/2013527153035.htm",
+                "SubTitle_src": "admin/upfile/20135271530350.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "VeriColor Spectro",
+                "SubTitle_Item_Name": "VeriColor Spectro",
+                "SubTitle_Description": "经济型非接触式在线色彩测量解决方案，可为工艺过程控制提供反射光谱和色度数据，从而提高质量控制水平并节约运营开支",
+                "SubTitle_Link": "20135/2013524150647.htm",
+                "SubTitle_src": "admin/upfile/20135241506470.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Judge II",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "专利技术改善灯管颜色表现；多个开关式光源，更准确地评审色彩；符合多个国际标准",
+                "SubTitle_Link": "20135/2013524130842.htm",
+                "SubTitle_src": "admin/upfile/judge_ii.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "X-Color QC",
+                "SubTitle_Item_Name": "色彩测量与系统控制",
+                "SubTitle_Description": "X-Color QC 是爱色丽推出的新一代色彩管理技术，可在单一而灵活的平台中组织及控制所有类型的表面、涂层和颜料的色彩数据。",
+                "SubTitle_Link": "20135/2013523193553.htm",
+                "SubTitle_src": "admin/upfile/20135231935530.png"
+            },
+            {
+                "SubTitle_Item_Model": "ColorMaster",
+                "SubTitle_Item_Name": "专业色彩管理软件系列",
+                "SubTitle_Description": "缩短生产周期；提高色彩数据沟通效率；最大限度降低色彩浪费；建立多种色彩配方选择",
+                "SubTitle_Link": "20135/2013523161206.htm",
+                "SubTitle_src": "admin/upfile/ColorMaster.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectraLight III",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "世界上最精确的模拟日光；国际技术及标准协会认可；符合多个国际标准；Smart Logic技术",
+                "SubTitle_Link": "20135/2013523155527.htm",
+                "SubTitle_src": "admin/upfile/20135231555270.png"
+            },
+            {
+                "SubTitle_Item_Model": "VS450 带光泽测量的非接触分光光度仪",
+                "SubTitle_Item_Name": "VS450 带光泽测量的非接触分光光度仪",
+                "SubTitle_Description": "采用45/0度几何光学结构设计，专用于涂料、粉体和塑料等各类干湿样品的颜色和光泽测量。",
+                "SubTitle_Link": "20135/2013523153107.htm",
+                "SubTitle_src": "admin/upfile/20135231531070.png"
+            },
+            {
+                "SubTitle_Item_Model": "Color i7",
+                "SubTitle_Item_Name": "台式分光光度仪",
+                "SubTitle_Description": "全新Color i7为您开启精确,全球化的数字色彩工作流程",
+                "SubTitle_Link": "20135/2013523152525.htm",
+                "SubTitle_src": "admin/upfile/product_a_03.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color i5",
+                "SubTitle_Item_Name": "台式分光光度仪",
+                "SubTitle_Description": "三光束技术;反射及穿透式测量;自动调节及双重变焦镜头;自动调节紫外光",
+                "SubTitle_Link": "20135/201352393403.htm",
+                "SubTitle_src": ""
+            },
+            {
+                "SubTitle_Item_Model": "食品色彩分析和检验解决方案",
+                "SubTitle_Item_Name": "食品色彩分析和检验解决方案",
+                "SubTitle_Description": "食品色彩分析和检验解决方案",
+                "SubTitle_Link": "20135/201353164747.htm",
+                "SubTitle_src": ""
+            }
+        ]
+    }
+}

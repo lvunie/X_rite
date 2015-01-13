@@ -1,0 +1,207 @@
+{
+    "leftMenu": {
+        "Left_Menu": [
+            {
+                "Menu_Title": "在线测量",
+                "Menu_Link": "product.asp?lbid=26&id=4"
+            },
+            {
+                "Menu_Title": "修补漆",
+                "Menu_Link": "product.asp?lbid=25&id=4"
+            },
+            {
+                "Menu_Title": "整车品控",
+                "Menu_Link": "product.asp?lbid=24&id=4"
+            },
+            {
+                "Menu_Title": "人工对色",
+                "Menu_Link": "product.asp?lbid=23&id=4"
+            },
+            {
+                "Menu_Title": "汽车内饰",
+                "Menu_Link": "product.asp?lbid=22&id=4"
+            },
+            {
+                "Menu_Title": "汽车外饰及金属珠光漆",
+                "Menu_Link": "product.asp?lbid=21&id=4"
+            },
+            {
+                "Menu_Title": "应用案例",
+                "Menu_Link": "http://www.xrite.cn/case.asp"
+            },
+            {
+                "Menu_Title": "公司新闻",
+                "Menu_Link": "http://www.xrite.cn/news2007.asp?thisYear=2010"
+            },
+            {
+                "Menu_Title": "网上展台",
+                "Menu_Link": "http://www.xrite.cn/cp.asp"
+            }
+        ]
+    },
+    "subTitleTag": {
+        "SubTitle": [
+            {
+                "SubTitle_Item_Model": "汽车行业解决方案",
+                "SubTitle_Item_Name": "汽车行业解决方案",
+                "SubTitle_Description": "对于高品质的汽车制造工业来说，色彩的开发、测量和控制越来越重要。",
+                "SubTitle_Link": "201310/20131010124148.htm",
+                "SubTitle_src": "admin/upfile/201310101241480.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "VeriColor Spectro",
+                "SubTitle_Item_Name": "VeriColor Spectro",
+                "SubTitle_Description": "经济型非接触式在线色彩测量解决方案，可为工艺过程控制提供反射光谱和色度数据，从而提高质量控制水平并节约运营开支",
+                "SubTitle_Link": "20135/2013527155024.htm",
+                "SubTitle_src": "admin/upfile/20135271550240.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Elcometer 407",
+                "SubTitle_Item_Name": "统计型光泽仪",
+                "SubTitle_Description": "Elcometer 407统计型光泽仪能测量三个反射 角度的光泽度",
+                "SubTitle_Link": "20135/2013527154601.htm",
+                "SubTitle_src": "admin/upfile/20135271546010.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "MA68II",
+                "SubTitle_Item_Name": "多角度分光光度仪",
+                "SubTitle_Description": "测量汽车车身金属或珠光颜色；测量汽车内、外饰件颜色；测量汽车轮毂铝粉效果",
+                "SubTitle_Link": "20135/2013527154411.htm",
+                "SubTitle_src": "admin/upfile/20135271544110.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SP64",
+                "SubTitle_Item_Name": "便携式积分球分光光度仪",
+                "SubTitle_Description": "轻巧设计，方便携带；0/8积分球光学几何设计；孔径可选4/8/14mm",
+                "SubTitle_Link": "20135/2013527154314.htm",
+                "SubTitle_src": "admin/upfile/20135271543140.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SP62",
+                "SubTitle_Item_Name": "便携式积分球分光光度仪",
+                "SubTitle_Description": "轻巧设计，方便携带；0/8积分球光学几何设计；孔径可选4/8/14mm",
+                "SubTitle_Link": "20135/2013527154220.htm",
+                "SubTitle_src": "admin/upfile/20135271542200.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SP60",
+                "SubTitle_Item_Name": "便携式积分球分光光度仪",
+                "SubTitle_Description": "轻巧设计，方便携带；0/8积分球光学几何设计；孔径8mm",
+                "SubTitle_Link": "20135/2013527154056.htm",
+                "SubTitle_src": "admin/upfile/20135271540560.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectraLight QC",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "更优化的专利模拟日光技术，可生成多个品牌商的光源要求，更多光源选择，光源启动后即时稳定，照度可调节并自动控制，实时监控光源状态，精确的UV校准便于增白样品准确评估，生成可追溯的数据报告。",
+                "SubTitle_Link": "20135/2013527153926.htm",
+                "SubTitle_src": "admin/upfile/20135271539260.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectraLight III",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "世界上最精确的模拟日光；国际技术及标准协会认可；符合多个国际标准；Smart Logic技术",
+                "SubTitle_Link": "20135/2013527153713.htm",
+                "SubTitle_src": "admin/upfile/20135271537130.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Judge II",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "专利技术改善灯管颜色表现；多个开关式光源，更准确地评审色彩；符合多个国际标准",
+                "SubTitle_Link": "20135/2013527153544.htm",
+                "SubTitle_src": "admin/upfile/20135271535440.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectraLight QC",
+                "SubTitle_Item_Name": "标准多光源灯箱",
+                "SubTitle_Description": "更优化的专利模拟日光技术，可生成多个品牌商的光源要求，更多光源选择，光源启动后即时稳定，照度可调节并自动控制，实时监控光源状态，精确的UV校准便于增白样品准确评估，生成可追溯的数据报告。",
+                "SubTitle_Link": "20135/2013527153426.htm",
+                "SubTitle_src": "admin/upfile/20135271534260.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "ColorMaster",
+                "SubTitle_Item_Name": "专业色彩管理软件系列",
+                "SubTitle_Description": "缩短生产周期；提高色彩数据沟通效率；最大限度降低色彩浪费；建立多种色彩配方选择",
+                "SubTitle_Link": "20135/2013527140303.htm",
+                "SubTitle_src": "admin/upfile/20135271403030.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iQC",
+                "SubTitle_Item_Name": "颜色品质控制软件",
+                "SubTitle_Description": "简化整个颜色品管步骤，完全配合工作流程，方便分享颜色数据，更可兼容多种分光仪，沃尔玛全球采购指定使用",
+                "SubTitle_Link": "20135/2013527140200.htm",
+                "SubTitle_src": "admin/upfile/20135271402000.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SP64",
+                "SubTitle_Item_Name": "便携式积分球分光光度仪",
+                "SubTitle_Description": "轻巧设计，方便携带；d/8°积分球光学几何设计；孔径可选4/8/14mm",
+                "SubTitle_Link": "20135/2013527140055.htm",
+                "SubTitle_src": "admin/upfile/20135271400550.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SP62",
+                "SubTitle_Item_Name": "便携式积分球分光光度仪",
+                "SubTitle_Description": "轻巧设计，方便携带；d/8°积分球光学几何设计；孔径可选4/8/14mm",
+                "SubTitle_Link": "20135/2013527135955.htm",
+                "SubTitle_src": "admin/upfile/20135271359550.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SP60",
+                "SubTitle_Item_Name": "便携式积分球分光光度仪",
+                "SubTitle_Description": "轻巧设计，方便携带；d/8°积分球光学几何设计；孔径8mm",
+                "SubTitle_Link": "20135/2013527135851.htm",
+                "SubTitle_src": "admin/upfile/20135271358510.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "ColorEye 7000A",
+                "SubTitle_Item_Name": "台式分光光度仪",
+                "SubTitle_Description": "拥有卓越的仪器间一致性，超凡的精确性和显著的可重复性。无论工厂还是实验室，都是您进行精密颜色分析的最佳选择。沃尔玛全球采购指定使用",
+                "SubTitle_Link": "20135/2013527135750.htm",
+                "SubTitle_src": "admin/upfile/20135271357500.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Elcometer 407",
+                "SubTitle_Item_Name": "统计型光泽仪",
+                "SubTitle_Description": "Elcometer 407统计型光泽仪能测量三个反射 角度的光泽度",
+                "SubTitle_Link": "20135/2013527135611.htm",
+                "SubTitle_src": "admin/upfile/20135271356110.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "X-Color QC",
+                "SubTitle_Item_Name": "色彩测量与系统控制",
+                "SubTitle_Description": "X-Color QC 是爱色丽推出的新一代色彩管理技术，可在单一而灵活的平台中组织及控制所有类型的表面、涂层和颜料的色彩数据。",
+                "SubTitle_Link": "20135/2013527135046.htm",
+                "SubTitle_src": "admin/upfile/20135271350460.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "MA98",
+                "SubTitle_Item_Name": "便携式多角度分光光度仪",
+                "SubTitle_Description": "新一代多角度颜色测量工具，是对于金属色、珠光色及其他复杂的特殊效果颜色产品提供色彩测量",
+                "SubTitle_Link": "20135/2013527134452.htm",
+                "SubTitle_src": "admin/upfile/20135271344520.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "MA68II",
+                "SubTitle_Item_Name": "多角度分光光度仪",
+                "SubTitle_Description": "测量汽车车身金属或珠光颜色；测量汽车内、外饰件颜色；测量汽车轮毂铝粉效果",
+                "SubTitle_Link": "20135/2013527134406.htm",
+                "SubTitle_src": "admin/upfile/20135271344060.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Metallix-QA",
+                "SubTitle_Item_Name": "汽车专业颜色品控软件",
+                "SubTitle_Description": "特别为MA68II多角度分光光度仪而设计的色彩控制软件；适用于汽车工业内金属涂料和配件数据分析等",
+                "SubTitle_Link": "20135/2013527134204.htm",
+                "SubTitle_src": "admin/upfile/20135271342040.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "MA9x系列",
+                "SubTitle_Item_Name": "多角度分光光度仪",
+                "SubTitle_Description": "测量特效色彩的便携式多角度分光产品",
+                "SubTitle_Link": "20135/2013527134051.htm",
+                "SubTitle_src": "admin/upfile/20135271340510.jpg"
+            }
+        ]
+    }
+}
