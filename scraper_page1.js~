@@ -17,12 +17,12 @@ var subMemuIndex = 0;
 var flashBannerIndex = 0; 
 var subMenuIndex = 0;
 var sub_title_Index = 0;
+var sub_links_Index = 0;
 var news_Index = 0;
 
 // JSON structure
 var json = { 
 	MainMenu : "",
-	href_link: "",
 	SubMenu : "",
 	FlashBanner: "",
 	Product_Display: "",
@@ -268,7 +268,7 @@ function scrape(){
 					createMenu_subMenu();
 					Menu_subMenu[i].Submenu_title = text[i];
 				}
-
+		
 				MainMenuTag[6].Menu_subMenu = Menu_subMenu;
 				MainMenu.MainMenuTag = MainMenuTag;
 				json.MainMenu = MainMenuTag;
@@ -277,14 +277,132 @@ function scrape(){
 
 	})
 //////////////////////////Memu href/////////////////////////////////////////////////		
-			.scrape(function($) {
-	     		return $(".nav_chosen a").map(function() {
+//			.scrape(function($) {
+//	     		return $(".nav_chosen a").map(function() {
+//    				return $(this).attr('href');
+//     			 }).get();
+//    			}, function(text) {
+//				json.href_link = text;
+//	})		
+		.scrape(function($) {
+	     		return $(".nav_chosen div").eq(1).find('a').map(function() {
     				return $(this).attr('href');
      			 }).get();
     			}, function(text) {
-				json.href_link = text;
-	})		
 
+				sub_links_Index = text.length;
+				Menu_subMenu = [];
+
+				for(var i=0; i < sub_links_Index; i++)
+				{	
+					createMenu_subMenu();
+					MainMenuTag[1].Menu_subMenu[i].Submenu_link = text[i];
+				}
+
+				MainMenu.MainMenuTag = MainMenuTag;
+
+				Menu_subMenu = "";
+
+	})
+
+		.scrape(function($) {
+	     		return $(".nav_chosen div").eq(2).find('a').map(function() {
+    				return $(this).attr('href');
+     			 }).get();
+    			}, function(text) {
+
+				sub_links_Index = text.length;
+				Menu_subMenu = [];
+
+				for(var i=0; i < sub_links_Index; i++)
+				{	
+					createMenu_subMenu();
+					MainMenuTag[2].Menu_subMenu[i].Submenu_link = text[i];
+				}
+
+				MainMenu.MainMenuTag = MainMenuTag;
+
+				Menu_subMenu = "";
+
+	})
+		.scrape(function($) {
+	     		return $(".nav_chosen div").eq(3).find('a').map(function() {
+    				return $(this).attr('href');
+     			 }).get();
+    			}, function(text) {
+
+				sub_links_Index = text.length;
+				Menu_subMenu = [];
+
+				for(var i=0; i < sub_links_Index; i++)
+				{	
+					createMenu_subMenu();
+					MainMenuTag[3].Menu_subMenu[i].Submenu_link = text[i];
+				}
+
+				MainMenu.MainMenuTag = MainMenuTag;
+
+				Menu_subMenu = "";
+	})
+		.scrape(function($) {
+	     		return $(".nav_chosen div").eq(4).find('a').map(function() {
+    				return $(this).attr('href');
+     			 }).get();
+    			}, function(text) {
+
+				sub_links_Index = text.length;
+				Menu_subMenu = [];
+
+				for(var i=0; i < sub_links_Index; i++)
+				{	
+					createMenu_subMenu();
+					MainMenuTag[4].Menu_subMenu[i].Submenu_link = text[i];
+				}
+
+				MainMenu.MainMenuTag = MainMenuTag;
+
+				Menu_subMenu = "";
+
+	})
+		.scrape(function($) {
+	     		return $(".nav_chosen div").eq(5).find('a').map(function() {
+    				return $(this).attr('href');
+     			 }).get();
+    			}, function(text) {
+
+				sub_links_Index = text.length;
+				Menu_subMenu = [];
+
+				for(var i=0; i < sub_links_Index; i++)
+				{	
+					createMenu_subMenu();
+					MainMenuTag[5].Menu_subMenu[i].Submenu_link = text[i];
+				}
+
+				MainMenu.MainMenuTag = MainMenuTag;
+
+				Menu_subMenu = "";
+
+	})
+		.scrape(function($) {
+	     		return $(".nav_chosen div").eq(6).find('a').map(function() {
+    				return $(this).attr('href');
+     			 }).get();
+    			}, function(text) {
+
+				sub_links_Index = text.length;
+				Menu_subMenu = [];
+
+				for(var i=0; i < sub_links_Index; i++)
+				{	
+					createMenu_subMenu();
+					MainMenuTag[6].Menu_subMenu[i].Submenu_link = text[i];
+				}
+
+				MainMenu.MainMenuTag = MainMenuTag;
+
+				Menu_subMenu = "";
+	})
 //////////////////submenu///////////////////////////////////////////////////////////////
 		.scrape(function($) {
 	     		return $(".submenu li").map(function() {
@@ -471,7 +589,7 @@ function scrape(){
 ///////////////Write content to JSON file//////////////////////////////////////////////////
 function writeToJson(frame){
 
-        fs.writeFile('x_out.json', JSON.stringify(frame, null, 4), function(err){
+        fs.writeFile('data/menu1/x_out.json', JSON.stringify(frame, null, 4), function(err){
   
         })	
 }

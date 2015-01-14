@@ -9,15 +9,15 @@
             "Menu_subMenu": [
                 {
                     "Submenu_title": "公司新闻",
-                    "Submenu_link": "news2007.asp?thisYear=2014"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "市场信息",
-                    "Submenu_link": "shichang.asp"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "促销信息",
-                    "Submenu_link": "promotion13.asp"
+                    "Submenu_link": ""
                 }
             ]
         },
@@ -26,19 +26,19 @@
             "Menu_subMenu": [
                 {
                     "Submenu_title": "公司历史",
-                    "Submenu_link": "history.asp"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "分支机构",
-                    "Submenu_link": "location.asp"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "代理网络",
-                    "Submenu_link": "agent.asp"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "代理专区",
-                    "Submenu_link": "ftp.asp"
+                    "Submenu_link": ""
                 }
             ]
         },
@@ -47,55 +47,55 @@
             "Menu_subMenu": [
                 {
                     "Submenu_title": "食品",
-                    "Submenu_link": "product.asp?id=11"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "塑料",
-                    "Submenu_link": "product.asp?id=1"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "涂料",
-                    "Submenu_link": "product.asp?id=2"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "化妆品",
-                    "Submenu_link": "product.asp?id=10"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "纺织",
-                    "Submenu_link": "product.asp?id=3"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "汽车",
-                    "Submenu_link": "product.asp?id=4"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "数码影像",
-                    "Submenu_link": "product.asp?id=5"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "印前",
-                    "Submenu_link": "product.asp?id=6"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "印刷",
-                    "Submenu_link": "product.asp?id=7"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "油墨",
-                    "Submenu_link": "product.asp?id=8"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "其他",
-                    "Submenu_link": "product.asp?id=9"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "案例分析",
-                    "Submenu_link": "case-study.aspx"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "技术文章",
-                    "Submenu_link": "tech-article.aspx"
+                    "Submenu_link": ""
                 }
             ]
         },
@@ -108,23 +108,23 @@
             "Menu_subMenu": [
                 {
                     "Submenu_title": "维修中心介绍",
-                    "Submenu_link": "service.asp"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "售后服务流程",
-                    "Submenu_link": "service2.asp"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "易耗配件销售流程",
-                    "Submenu_link": "service3.asp"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "常见问题解答",
-                    "Submenu_link": "service4.asp"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "产品注册",
-                    "Submenu_link": "register.asp"
+                    "Submenu_link": ""
                 }
             ]
         },
@@ -133,14 +133,43 @@
             "Menu_subMenu": [
                 {
                     "Submenu_title": "产品问询",
-                    "Submenu_link": "contact.asp"
+                    "Submenu_link": ""
                 },
                 {
                     "Submenu_title": "技术支持FAQ",
-                    "Submenu_link": "FAQ.ASP"
+                    "Submenu_link": ""
                 }
             ]
         }
+    ],
+    "href_link": [
+        "news2007.asp?thisYear=2014",
+        "shichang.asp",
+        "promotion13.asp",
+        "history.asp",
+        "location.asp",
+        "agent.asp",
+        "ftp.asp",
+        "product.asp?id=11",
+        "product.asp?id=1",
+        "product.asp?id=2",
+        "product.asp?id=10",
+        "product.asp?id=3",
+        "product.asp?id=4",
+        "product.asp?id=5",
+        "product.asp?id=6",
+        "product.asp?id=7",
+        "product.asp?id=8",
+        "product.asp?id=9",
+        "case-study.aspx",
+        "tech-article.aspx",
+        "service.asp",
+        "service2.asp",
+        "service3.asp",
+        "service4.asp",
+        "register.asp",
+        "contact.asp",
+        "FAQ.ASP"
     ],
     "SubMenu": {
         "SubMenuTag": [
