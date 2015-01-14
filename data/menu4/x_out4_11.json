@@ -1,0 +1,51 @@
+{
+    "leftMenu": {
+        "Left_Menu": [
+            {
+                "Menu_Title": "孟塞尔产品",
+                "Menu_Link": "product.asp?lbid=38&id=9"
+            },
+            {
+                "Menu_Title": "光源",
+                "Menu_Link": "product.asp?lbid=37&id=9"
+            },
+            {
+                "Menu_Title": "应用案例",
+                "Menu_Link": "http://www.xrite.cn/case.asp"
+            },
+            {
+                "Menu_Title": "公司新闻",
+                "Menu_Link": "http://www.xrite.cn/news2007.asp?thisYear=2010"
+            },
+            {
+                "Menu_Title": "网上展台",
+                "Menu_Link": "http://www.xrite.cn/cp.asp"
+            }
+        ]
+    },
+    "subTitleTag": {
+        "SubTitle": [
+            {
+                "SubTitle_Item_Model": "FM 100 Hue Test",
+                "SubTitle_Item_Name": "辨色能力测试工具",
+                "SubTitle_Description": "全球各大公司推荐使用的辨色能力测试工具，被各国政府组织机构以及各行业广泛使用近半个世纪",
+                "SubTitle_Link": "20135/2013527202025.htm",
+                "SubTitle_src": "admin/upfile/20135272020250.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "悬挂式光源系统",
+                "SubTitle_Item_Name": "悬挂式光源系统",
+                "SubTitle_Description": "Examolite和Prooflite是方便的悬挂式灯箱.",
+                "SubTitle_Link": "20135/2013527201832.htm",
+                "SubTitle_src": "admin/upfile/20135272018320.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Macbeth 光源",
+                "SubTitle_Item_Name": "Macbeth 光源",
+                "SubTitle_Description": "Macbeth照明解决方案被公认为目视色彩评价的行业标准.",
+                "SubTitle_Link": "20135/2013527194942.htm",
+                "SubTitle_src": "admin/upfile/20135271949420.jpg"
+            }
+        ]
+    }
+}

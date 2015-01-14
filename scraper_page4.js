@@ -68,7 +68,7 @@ scrape();
 function scrape(){
 	
 	//Title name
-	scraperjs.StaticScraper.create('http://localhost/x_out4_1.html')
+	scraperjs.StaticScraper.create('http://localhost/x_out4_11.html')
 	    	.scrape(function($) {
 	     		   return $(".nav_a").map(function() {
     		        	return $(this).text();
@@ -247,7 +247,7 @@ function scrape(){
 ///////////////Write content to JSON file//////////////////////////////////////////////////
 function writeToJson(frame){
 
-        fs.writeFile('data/menu4/x_out4_1.json', JSON.stringify(frame, null, 4), function(err){
+        fs.writeFile('data/menu4/x_out4_11.json', JSON.stringify(frame, null, 4), function(err){
   
         })	
 }

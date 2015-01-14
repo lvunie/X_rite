@@ -1,0 +1,121 @@
+{
+    "leftMenu": {
+        "Left_Menu": [
+            {
+                "Menu_Title": "油墨生产",
+                "Menu_Link": "product.asp?lbid=36&id=8"
+            },
+            {
+                "Menu_Title": "印刷油墨配色",
+                "Menu_Link": "product.asp?lbid=35&id=8"
+            },
+            {
+                "Menu_Title": "应用案例",
+                "Menu_Link": "http://www.xrite.cn/case.asp"
+            },
+            {
+                "Menu_Title": "公司新闻",
+                "Menu_Link": "http://www.xrite.cn/news2007.asp?thisYear=2010"
+            },
+            {
+                "Menu_Title": "网上展台",
+                "Menu_Link": "http://www.xrite.cn/cp.asp"
+            }
+        ]
+    },
+    "subTitleTag": {
+        "SubTitle": [
+            {
+                "SubTitle_Item_Model": "Ci4200/Ci4200UV",
+                "SubTitle_Item_Name": "台式分光光度仪",
+                "SubTitle_Description": "Ci4200/Ci4200UV 台式分光光度仪，准确可靠，可帮助客户建立颜色控制方案",
+                "SubTitle_Link": "20136/2013626143417.htm",
+                "SubTitle_src": "admin/upfile/20136261453320.png"
+            },
+            {
+                "SubTitle_Item_Model": "色彩管理和交流解决方案",
+                "SubTitle_Item_Name": "适用于印刷工艺",
+                "SubTitle_Description": "连接色彩，从灵感到输出，从概念到消费者",
+                "SubTitle_Link": "20135/2013527185138.htm",
+                "SubTitle_src": "admin/upfile/20135271851380.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "NetProfiler 3.0",
+                "SubTitle_Item_Name": "NetProfiler 3.0",
+                "SubTitle_Description": "基于云计算推出的软件与色彩标准综合工具，使企业可以查验、优化和认证色彩测量设备的性能。",
+                "SubTitle_Link": "20135/2013527185042.htm",
+                "SubTitle_src": "admin/upfile/20135271850420.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color i7",
+                "SubTitle_Item_Name": "台式分光光度仪",
+                "SubTitle_Description": "1全新Color i7为您开启精确,全球化的数字色彩工作流程,让您可以在世界任何地方准确配制出满足您生产所需的各种颜色-而且更快更经济.Target全球采购必备仪器",
+                "SubTitle_Link": "20135/2013527184932.htm",
+                "SubTitle_src": "admin/upfile/20135271849320.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color i5",
+                "SubTitle_Item_Name": "台式分光光度仪",
+                "SubTitle_Description": "1三光束技术；反射及穿透式测量；自动调节及双重变焦镜头；自动调节紫外光",
+                "SubTitle_Link": "20135/2013527184838.htm",
+                "SubTitle_src": "admin/upfile/20135271848380.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "Color iMatch_CA",
+                "SubTitle_Item_Name": "工业类配色软件",
+                "SubTitle_Description": "广泛应用于涂料塑料油漆颜料等各行业的配色软件,崭新计算理论Multi Flux能同时处理不同底材及所需的通明度/遮盖力",
+                "SubTitle_Link": "20135/2013527184719.htm",
+                "SubTitle_src": "admin/upfile/20135271847190.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "ColorMaster",
+                "SubTitle_Item_Name": "专业色彩管理软件系列",
+                "SubTitle_Description": "缩短生产周期；提高色彩数据沟通效率；最大限度降低色彩浪费；建立多种色彩配方选择",
+                "SubTitle_Link": "20135/2013527184616.htm",
+                "SubTitle_src": "admin/upfile/20135271846160.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "色彩管理和交流解决方案",
+                "SubTitle_Item_Name": "适用于印刷工艺",
+                "SubTitle_Description": "连接色彩，从灵感到输出，从概念到消费者",
+                "SubTitle_Link": "20135/2013527184434.htm",
+                "SubTitle_src": "admin/upfile/20135271844340.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "530",
+                "SubTitle_Item_Name": "分光密度计",
+                "SubTitle_Description": "光谱感应器技术测量；多种语言功能选择；大屏幕操作显示；简单校正指示",
+                "SubTitle_Link": "20135/2013527184344.htm",
+                "SubTitle_src": "admin/upfile/20135271843440.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "939",
+                "SubTitle_Item_Name": "分光密度仪",
+                "SubTitle_Description": "权威的印刷色彩解决方案；无比的仪器台间差协议；极优良的适应性",
+                "SubTitle_Link": "20135/2013527184006.htm",
+                "SubTitle_src": "admin/upfile/20135271840060.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "SpectroEye",
+                "SubTitle_Item_Name": "分光光度仪/色密度仪",
+                "SubTitle_Description": "印刷工艺检测；适用于包装及商业印刷；测量颜色和密度简单又精确",
+                "SubTitle_Link": "20135/2013527183846.htm",
+                "SubTitle_src": "admin/upfile/20135271838460.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "ColorMaster",
+                "SubTitle_Item_Name": "专业色彩管理软件系列",
+                "SubTitle_Description": "缩短生产周期；提高色彩数据沟通效率；最大限度降低色彩浪费；建立多种色彩配方选择",
+                "SubTitle_Link": "20135/2013527183750.htm",
+                "SubTitle_src": "admin/upfile/20135271837500.jpg"
+            },
+            {
+                "SubTitle_Item_Model": "eXact",
+                "SubTitle_Item_Name": "手持式分光光度仪",
+                "SubTitle_Description": "业内首个支持包括完整 M1 在内的所有 M 标准的分光光度仪，为客户提供真实日光测量条件的方法。",
+                "SubTitle_Link": "20135/2013527183654.htm",
+                "SubTitle_src": "admin/upfile/20135271836540.jpg"
+            }
+        ]
+    }
+}
