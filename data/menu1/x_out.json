@@ -2,7 +2,7 @@
     "MainMenu": [
         {
             "Menu_title": "首页",
-            "Menu_subMenu": ""
+            "Menu_subMenu": []
         },
         {
             "Menu_title": "公司动态",

@@ -136,12 +136,26 @@ function scrape(){
 
  	})
 
-/////////////////SubMenu under Top Menu start
+/////////////////SubMenu under Top Menu start///////////////////////////////////////////////
+		//Subtitle
 	  	.scrape(function($) {
 	     		return $(".nav_chosen div").eq(0).find('li').map(function() {
     				return $(this).text();
      			 }).get();
     			}, function(text) {
+				Menu_subMenu = [];
+				sub_title_Index = text.length;
+
+				for(var i=0; i < sub_title_Index; i++)
+				{	
+					createMenu_subMenu();
+					Menu_subMenu[i].Submenu_title = text[i];
+				}
+
+				MainMenuTag[0].Menu_subMenu = Menu_subMenu;
+				MainMenu.MainMenuTag = MainMenuTag;
+
+				Menu_subMenu = "";
 
 	})
 		//Subtitle
@@ -407,7 +421,7 @@ function scrape(){
 				RightMenu.RightMenuTag = RightMenuTag;
 			
 	})
-		//submenu_URL
+		//Right Menu URLs Links
 		.scrape(function($) {
 	     		return $(".submenu a").map(function() {
     				return $(this).attr('href');
@@ -424,6 +438,9 @@ function scrape(){
 				json.RightMenu = RightMenu;
 			
 	})
+
+//////////////////////////////Flash Banner(Mid Menu) Start/////////////////////////////////////////////
+		//Flash Banner(Mid Menu) Picture Link
 		.scrape(function($) {
 	     		return $(".flashbanner img").map(function() {
     				return $(this).attr('src');
@@ -441,6 +458,7 @@ function scrape(){
 				FlashBanner.SubBanner = SubBanner;
 
 	})
+		//Flash Banner(Mid Menu) URLs Link
 		.scrape(function($) {
 	     		return $(".flashbanner a").map(function() {
     				return $(this).attr('href');
@@ -458,8 +476,8 @@ function scrape(){
 				writeToJson(json);
 
 	})
-///////////////////////////////blue
-	// product display
+//////////////////////////////Bottom Content (Mid Menu) Start/////////////////////////////////////////////
+	// Product Display Description 
 		.scrape(function($) {
 	     		return $(".td_02 a[target=_blank]").map(function() {
     				return $(this).text();
@@ -476,6 +494,7 @@ function scrape(){
 			Product_Display.P_Display = P_Display;
 
 	})
+		// Product Display URLs Links
 		.scrape(function($) {
 	     		return $("div[style*='float:left;width:110px;margin:0'] a").map(function() {
     				return $(this).attr('href');
@@ -487,6 +506,7 @@ function scrape(){
 
 			Product_Display.P_Display = P_Display;
 	})
+		// Product Display Picture Links
 		.scrape(function($) {
 	     		return $("div[style*='float:left;width:110px;margin:0'] img").map(function() {
     				return $(this).attr('src');
