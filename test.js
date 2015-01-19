@@ -6,7 +6,7 @@ var S         = require('string');
 
 request({
     encoding: null,
-    url: 'http://xrite.cn/product.asp?id=11'
+    url: 'http://xrite.cn/20135/2013523200332.htm'
 }, function(error, response, body) {
     if (!error && response.statusCode == 200) {
 	var string = Iconv.decode(body, 'gb2312').toString()
@@ -22,7 +22,7 @@ request({
 
 function writeToJson(frame){
 
-	fs.writeFile('html/x_out4_1.html', frame);
+	fs.writeFile('html/x_out_product.html', frame);
 }
 
 

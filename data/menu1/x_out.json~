@@ -142,43 +142,43 @@
             ]
         }
     ],
-    "SubMenu": {
-        "SubMenuTag": [
+    "RightMenu": {
+        "RightMenuTag": [
             {
-                "SubMenu_title": "塑料",
-                "SubMenu_href": "http://www.xrite.cn/product.asp?id=1"
+                "RightMenu_title": "塑料",
+                "RightMenu_href": "http://www.xrite.cn/product.asp?id=1"
             },
             {
-                "SubMenu_title": "影像",
-                "SubMenu_href": "http://www.xrite.cn/product.asp?id=5"
+                "RightMenu_title": "影像",
+                "RightMenu_href": "http://www.xrite.cn/product.asp?id=5"
             },
             {
-                "SubMenu_title": "涂料",
-                "SubMenu_href": "http://www.xrite.cn/product.asp?id=2"
+                "RightMenu_title": "涂料",
+                "RightMenu_href": "http://www.xrite.cn/product.asp?id=2"
             },
             {
-                "SubMenu_title": "印前",
-                "SubMenu_href": "http://www.xrite.cn/product.asp?id=6"
+                "RightMenu_title": "印前",
+                "RightMenu_href": "http://www.xrite.cn/product.asp?id=6"
             },
             {
-                "SubMenu_title": "纺织",
-                "SubMenu_href": "http://www.xrite.cn/product.asp?id=3"
+                "RightMenu_title": "纺织",
+                "RightMenu_href": "http://www.xrite.cn/product.asp?id=3"
             },
             {
-                "SubMenu_title": "印刷",
-                "SubMenu_href": "http://www.xrite.cn/product.asp?id=7"
+                "RightMenu_title": "印刷",
+                "RightMenu_href": "http://www.xrite.cn/product.asp?id=7"
             },
             {
-                "SubMenu_title": "汽车",
-                "SubMenu_href": "http://www.xrite.cn/product.asp?id=4"
+                "RightMenu_title": "汽车",
+                "RightMenu_href": "http://www.xrite.cn/product.asp?id=4"
             },
             {
-                "SubMenu_title": "油墨",
-                "SubMenu_href": "http://www.xrite.cn/product.asp?id=8"
+                "RightMenu_title": "油墨",
+                "RightMenu_href": "http://www.xrite.cn/product.asp?id=8"
             },
             {
-                "SubMenu_title": "其它",
-                "SubMenu_href": "http://www.xrite.cn/product.asp?id=9"
+                "RightMenu_title": "其它",
+                "RightMenu_href": "http://www.xrite.cn/product.asp?id=9"
             }
         ]
     },

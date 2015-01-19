@@ -23,7 +23,7 @@ var news_Index = 0;
 // JSON structure
 var json = { 
 	MainMenu : "",
-	SubMenu : "",
+	RightMenu : "",
 	FlashBanner: "",
 	Product_Display: "",
 	Company_News:"",
@@ -84,15 +84,15 @@ function createMenu_subMenu()
 }
 
 ///////////////////////////////////////////////////SubMenu
-var SubMenu = {
-    	SubMenuTag: '',
+var RightMenu = {
+    	RightMenuTag: '',
 }
 
 function createSubMenu()
 {
-	SubMenuTag.push({ 
-		"SubMenu_title": "",
-             	"SubMenu_href": "",
+	RightMenuTag.push({ 
+		"RightMenu_title": "",
+             	"RightMenu_href": "",
     	});
 }
 
@@ -112,10 +112,11 @@ function createFlashBanner()
 
 scrape();
 
-////////////Scrape content from given URL////////////
+////////////////////////////////////////////Scrape content from given URL/////////////////////////////////////////////
+
 function scrape(){
 	
-	//Title name
+	//Top Memu Name
 	scraperjs.StaticScraper.create('http://localhost/x_out.html')
 	    		.scrape(function($) {
 	     		   return $("#nav a[class!='chosen']").map(function() {
@@ -132,21 +133,10 @@ function scrape(){
 			}
 
 			MainMenu.MainMenuTag = MainMenuTag;
-			//json.MainMenu = MainMenu;
 
  	})
-		.scrape(function($) {
-	     		   return $(".nav_chosen div").map(function() {
-    		        	return $(this).text();
-     		   	}).get();
-    			}, function(text) {
 
-			subMemuIndex = text.length
-			console.log(subMemuIndex);
-
-	})
-
-	/////////////////////////////////subpage start////////////////////////////
+/////////////////SubMenu under Top Menu start
 	  	.scrape(function($) {
 	     		return $(".nav_chosen div").eq(0).find('li').map(function() {
     				return $(this).text();
@@ -154,6 +144,7 @@ function scrape(){
     			}, function(text) {
 
 	})
+		//Subtitle
 	  	.scrape(function($) {
 	     		return $(".nav_chosen div").eq(1).find('li').map(function() {
     				return $(this).text();
@@ -276,14 +267,7 @@ function scrape(){
 				Menu_subMenu = "";
 
 	})
-//////////////////////////Memu href/////////////////////////////////////////////////		
-//			.scrape(function($) {
-//	     		return $(".nav_chosen a").map(function() {
-//    				return $(this).attr('href');
-//     			 }).get();
-//    			}, function(text) {
-//				json.href_link = text;
-//	})		
+//////////////////////////Top Memu URLs Source/////////////////////////////////////////////////			
 		.scrape(function($) {
 	     		return $(".nav_chosen div").eq(1).find('a').map(function() {
     				return $(this).attr('href');
@@ -403,22 +387,24 @@ function scrape(){
 
 				Menu_subMenu = "";
 	})
-//////////////////submenu///////////////////////////////////////////////////////////////
+
+//////////////////////////////Right Menu Start/////////////////////////////////////////////
+		//Right Menu title
 		.scrape(function($) {
 	     		return $(".submenu li").map(function() {
     				return $(this).text();
      			 }).get();
     			}, function(text) {
-				SubMenuTag = [];
+				RightMenuTag = [];
 				subMenuIndex = text.length;
 				
 				for(var i=0; i < subMenuIndex; i++)
 				{
 					createSubMenu();
-					SubMenuTag[i].SubMenu_title = text[i];
+					RightMenuTag[i].RightMenu_title = text[i];
 				}
 
-				SubMenu.SubMenuTag = SubMenuTag;
+				RightMenu.RightMenuTag = RightMenuTag;
 			
 	})
 		//submenu_URL
@@ -431,11 +417,11 @@ function scrape(){
 				
 				for(var i=0; i < subMenuIndex; i++)
 				{
-					SubMenuTag[i].SubMenu_href = text[i];
+					RightMenuTag[i].RightMenu_href = text[i];
 				}
 
-				SubMenu.SubMenuTag = SubMenuTag;
-				json.SubMenu = SubMenu;
+				RightMenu.RightMenuTag = RightMenuTag;
+				json.RightMenu = RightMenu;
 			
 	})
 		.scrape(function($) {
@@ -488,7 +474,7 @@ function scrape(){
 			P_Display[2].Description = S(text[7]).trim().s;
 
 			Product_Display.P_Display = P_Display;
-			//json.Product_Display = Product_Display;
+
 	})
 		.scrape(function($) {
 	     		return $("div[style*='float:left;width:110px;margin:0'] a").map(function() {
@@ -501,7 +487,7 @@ function scrape(){
 
 			Product_Display.P_Display = P_Display;
 	})
-.scrape(function($) {
+		.scrape(function($) {
 	     		return $("div[style*='float:left;width:110px;margin:0'] img").map(function() {
     				return $(this).attr('src');
      			 }).get();
@@ -513,8 +499,11 @@ function scrape(){
 			Product_Display.P_Display = P_Display;
 			json.Product_Display = Product_Display;
 	})
-	//return $("div[style*='float:left;width:260px; ']").map(function() {
-	// company news
+
+
+///////////////// Company news(Right bottom)
+
+		//Company News Picture
 		.scrape(function($) {
 	     		return $("span[style*='float:left; padding:15px 15px 0 0'] img").map(function() {
     				return $(this).attr('src');
@@ -525,7 +514,8 @@ function scrape(){
 			Company_News.img_Company_News = img_Company_News;
 			
 	})
-	.scrape(function($) {
+		//Company News Title
+		.scrape(function($) {
 	     		return $("div[style*='padding:6px']").map(function() {
     				return $(this).text();
      			 }).get();
@@ -545,6 +535,7 @@ function scrape(){
 			Company_News.C_News = C_News;
 			json.Company_News = Company_News;
 	})
+		//Company News URLs Source
 		.scrape(function($) {
 	     		return $("div[style*='padding:6px'] a").map(function() {
     				return $(this).attr('href');
@@ -562,6 +553,7 @@ function scrape(){
 			json.Company_News = Company_News;
 			writeToJson(json);
 	})
+		//first News Links
 		.scrape(function($) {
 	     		return $("div[style*='padding:0 0 0 0'] a").map(function() {
     				return $(this).attr('href');
@@ -571,6 +563,7 @@ function scrape(){
 			C_News[0].News_Link = text[0];
 			writeToJson(json);
 	})
+		//First News Title
 		.scrape(function($) {
 	     		return $("div[style*='padding:0 0 0 0']").map(function() {
     				return $(this).text();
@@ -590,7 +583,7 @@ function scrape(){
 function writeToJson(frame){
 
         fs.writeFile('data/menu1/x_out.json', JSON.stringify(frame, null, 4), function(err){
-  
+  		console.log('ok');
         })	
 }
 
