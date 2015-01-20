@@ -12,18 +12,25 @@ var fs        = require('fs');
 var request = require('request');
 
 // var
-var mainMemuIndex = 0;
-var subMemuIndex = 0; 
-var flashBannerIndex = 0; 
-var subMenuIndex = 0;
-var sub_title_Index = 0;
+var addressIndex = 0;
+
 
 // JSON structure
 var json = { 
-	text1: "",
-	text2: "",
-	text3: "",
+	ContactInfo : "",
 };
+////////////////////////////////////////////////////
+var ContactInfo = { 
+	Contact: '',
+};
+
+function createContact()
+{
+	Contact.push({ 
+		"Chinese_address": "",
+             	"English_address": "",
+    	});
+}
 
 scrape();
 
@@ -33,36 +40,46 @@ function scrape(){
 	//Title name
 	scraperjs.StaticScraper.create('http://localhost/x_out3.html')
 	    	.scrape(function($) {
-	     		   return $(".bt_01").map(function() {
+	     		   return $("div[style*='float:left; width:285px']").map(function() {
     		        	return $(this).text();
      		   	}).get();
     			}, function(text) {
-			text = S(text).lines();
-			console.log(text);
-			json.text1 = text;
+			addressIndex = text.length;
+			
+			Contact = [];
+
+			for(var i=0; i < addressIndex; i++)
+			{
+				createContact();
+				Contact[i].Chinese_address = S(text[i]).lines();
+			}
+
+			ContactInfo = Contact;
+			json.ContactInfo = ContactInfo;
 
  	})
-		.scrape(function($) {
-	     		   return $(".td_02").map(function() {
-    		        	return $(this).text();
-     		   	}).get();
-    			}, function(text) {
-			text = S(text).lines();
-			console.log(text);
-			json.text2 = text;
 
- 	})
-		.scrape(function($) {
-	     		   return $(".td_en").map(function() {
+	    	.scrape(function($) {
+	     		   return $("div[style*='float:left; width:313px']").map(function() {
     		        	return $(this).text();
      		   	}).get();
     			}, function(text) {
-			text = S(text).lines();
-			console.log(text);
-			json.text3 = text;
+			addressIndex = text.length;
+			
+			//Contact = [];
+
+			for(var i=0; i < addressIndex; i++)
+			{
+				Contact[i].English_address = S(text[i]).lines();
+			}
+
+			//ContactInfo = Contact;
+			json.ContactInfo = ContactInfo;
+
 			writeToJson(json);
-
+				
  	})
+
 }
 
 
@@ -70,7 +87,7 @@ function scrape(){
 ///////////////Write content to JSON file//////////////////////////////////////////////////
 function writeToJson(frame){
 
-        fs.writeFile('x_out3.json', JSON.stringify(frame, null, 4), function(err){
+        fs.writeFile('data/menu3/x_out3.json', JSON.stringify(frame, null, 4), function(err){
   
         })	
 }

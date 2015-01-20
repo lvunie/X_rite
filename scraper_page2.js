@@ -31,7 +31,7 @@ function scrape(){
 	//Title name
 	scraperjs.StaticScraper.create('http://localhost/x_out2.html')
 	    		.scrape(function($) {
-	     		   return $(".td_02").map(function() {
+	     		   return $("#content").map(function() {
     		        	return $(this).text();
      		   	}).get();
     			}, function(text) {
@@ -49,7 +49,7 @@ function scrape(){
 ///////////////Write content to JSON file//////////////////////////////////////////////////
 function writeToJson(frame){
 
-        fs.writeFile('x_out2.json', JSON.stringify(frame, null, 4), function(err){
+        fs.writeFile('data/menu3/x_out2.json', JSON.stringify(frame, null, 4), function(err){
   
         })	
 }

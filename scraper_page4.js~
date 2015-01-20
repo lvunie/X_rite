@@ -67,8 +67,9 @@ scrape();
 ////////////Scrape content from given URL////////////
 function scrape(){
 	
-	//Title name
+	
 	scraperjs.StaticScraper.create('http://localhost/x_out4_11.html')
+		//(Left Menu)Title name
 	    	.scrape(function($) {
 	     		   return $(".nav_a").map(function() {
     		        	return $(this).text();
@@ -87,6 +88,7 @@ function scrape(){
 			json.leftMenu = leftMenu;
 
  	})
+		//(Left Menu)URLs Link
 	    	.scrape(function($) {
 	     		   return $(".nav_a a").map(function() {
     		        	return $(this).attr('href');
@@ -103,7 +105,7 @@ function scrape(){
 			json.leftMenu = leftMenu;
 
  	})
-		//Sub Item
+		//Product Item Model
 	    	.scrape(function($) {
 	     		   return $("div[style*='padding:25px 0 0 0']").map(function() {
     		        	return $(this).text();
@@ -123,6 +125,7 @@ function scrape(){
 				
 
  	})
+		//Product Item Name
 	    	.scrape(function($) {
 	     		   return $("div[style*='padding:0 0 3px 0']").map(function() {
     		        	return $(this).text();
@@ -140,6 +143,7 @@ function scrape(){
 				
 
  	})
+		//Product Item Description
 		.scrape(function($) {
 	     		   return $("div[style*='padding:5px 0 5px 0']").map(function() {
     		        	return $(this).text();
@@ -159,6 +163,7 @@ function scrape(){
 				
 
  	})
+		//Product Item Picture Link
 		.scrape(function($) {
 	     		   return $("div[style*='float:left;width:133px'] div[style!='text-align:right; padding-top'] img").map(function() {
     		        	return $(this).attr('src');
@@ -177,6 +182,7 @@ function scrape(){
 			json.subTitleTag = subTitleTag;
 				
  	})
+		//Product Item URLS Link
 		.scrape(function($) {
 	     		   return $("div[style*='float:left;width:133px'] div a").map(function() {
     		        	return $(this).attr('href');
@@ -194,54 +200,18 @@ function scrape(){
 			subTitleTag.SubTitle = SubTitle;
 			json.subTitleTag = subTitleTag;		
  	})
-		.scrape(function($) {
-	     		   return $(".td_02").map(function() {
-    		        	return $(this).text();
-     		   	}).get();
-    			}, function(text) {
-			text = S(text).lines();
-			//console.log(text);
-			//json.text2 = text;
 
- 	})
 		.scrape(function($) {
 	     		   return $(".nav_a").map(function() {
     		        	return $(this).text();
      		   	}).get();
     			}, function(text) {
 			text = S(text).lines();
-			//console.log(text);
-			//json.text3 = text;
 			writeToJson(json);
 
  	})
-		//a href
-		.scrape(function($) {
-	     		   return $("#content a").map(function() {
-    		        	return $(this).attr('href');
-     		   	}).get();
-    			}, function(text) {
-			var text_index = text.length;
-			//console.log(text_index);
-			//json.text4 = text;
-			writeToJson(json);
 
- 	})
-		//img src
-		.scrape(function($) {
-	     		   return $("#content img").map(function() {
-    		        	return $(this).attr('src');
-     		   	}).get();
-    			}, function(text) {
-			var text_index = text.length;
-			//console.log(text_index);
-			//json.text5 = text;
-			writeToJson(json);
-
- 	})
 }
-
-//return $("div[style*='float:left'] a").map(function() {
 
 
 ///////////////Write content to JSON file//////////////////////////////////////////////////
