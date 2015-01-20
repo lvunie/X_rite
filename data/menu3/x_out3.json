@@ -2,35 +2,30 @@
     "ContactInfo": [
         {
             "Chinese_address": [
-                " ",
-                "  爱色丽（上海）色彩仪器商贸有限公司",
+                "爱色丽（上海）色彩仪器商贸有限公司",
                 "    上海市桂平路391号新漕河泾国际商务中心B座1802室（2011年8月1日起）",
                 "    邮编：200233",
                 "    电话：(021) 6448-1155 传真：(021)6448-2468",
-                "    电子邮箱：info_shanghai@xrite.com",
-                "  "
+                "    电子邮箱：info_shanghai@xrite.com"
             ],
             "English_address": [
-                "",
-                "  ",
-                "  X-Rite (Shanghai) Color Management Co., Ltd.",
+                "X-Rite (Shanghai) Color Management Co., Ltd.",
                 "\tRoom 1802, Block B New Caohejing International Business Center, No.391 Gui Ping Road, Shanghai 200233 P.R.China （From Aug1, 2011）",
                 "\t",
                 "    Tel：(021) 6448-1155 Fax：(021)6448-2468",
-                "    Email：info_shanghai@xrite.com",
-                "  "
+                "    Email：info_shanghai@xrite.com"
             ]
         },
         {
             "Chinese_address": [
-                " 北京办事处",
+                "北京办事处",
                 "    北京市朝阳区阜通东大街6号院方恒国际C座1201",
                 "    邮编：100102",
                 "    电话：010-8478 5490 传真：010-8478 5491",
                 "    电子邮箱：info_beijing@xrite.com"
             ],
             "English_address": [
-                " X-Rite Beijing Office",
+                "X-Rite Beijing Office",
                 "    Room C1201 ,Fangheng International Center, No.6, Futong East Street, Chaoyang District, Beijing,100102",
                 "",
                 "    Tel：010-8478 5490 Fax：010-8478 5491",
@@ -39,14 +34,14 @@
         },
         {
             "Chinese_address": [
-                " 广州办事处",
+                "广州办事处",
                 "    广州市环市东路362-366号好世界广场1705室 ",
                 "    邮编：510060",
                 "    电话：(020)8375-2900 传真：(020)8375-2911",
                 "    电子邮箱：info_guangzhou@xrite.com"
             ],
             "English_address": [
-                " X-Rite Guangzhou Office",
+                "X-Rite Guangzhou Office",
                 "    Room 1705, Peace World Plaza, 362-366 Huan Shi Dong Road,Guangzhou 510060, China ",
                 "    Tel：(020)8375-2900 Fax：(020)8375-2911",
                 "    Email：info_guangzhou@xrite.com"
@@ -54,14 +49,14 @@
         },
         {
             "Chinese_address": [
-                " 爱色丽中国维修服务中心",
+                "爱色丽中国维修服务中心",
                 "    上海市桂平路391号新漕河泾国际商务中心B座1802室（2011年8月1日起）",
                 "    邮编：200233",
                 "    电话：(021) 6448-1155 传真：(021)6448-2468",
                 "    电子邮箱：info_shanghai@xrite.com"
             ],
             "English_address": [
-                " X-Rite China Service Center",
+                "X-Rite China Service Center",
                 "  Room 1802, Block B New Caohejing International Business Center, No.391 Gui Ping Road, Shanghai 200233 P.R.China （From Aug1, 2011）",
                 "\t",
                 "    Tel：(021) 6448-1155 Fax：(021)6448-2468",
@@ -70,33 +65,27 @@
         },
         {
             "Chinese_address": [
-                " ",
-                "  ",
-                "\t爱色丽亚太有限公司",
+                "爱色丽亚太有限公司",
                 "\t香港九龙观塘巧明街100号安盛金融大楼28楼2801室",
                 "    电话: +(852) 2568-6283   传真: +(852)2885-8610",
-                "    电子邮箱：info_ap@xrite.com",
-                "  ",
-                "  "
+                "    电子邮箱：info_ap@xrite.com"
             ],
             "English_address": [
-                "",
-                "   X-Rite Asia Pacific Limited",
+                "X-Rite Asia Pacific Limited",
                 "    Suite 2801, 28th Floor, AXA Tower, Landmark East, 100 How Ming Street, Kwun Tong, Kowloon, Hong Kong",
                 "    Tel：+(852)2568-6283 Fax：+(852)2885 8610",
-                "    Email：info_ap@xrite.com",
-                "   "
+                "    Email：info_ap@xrite.com"
             ]
         },
         {
             "Chinese_address": [
-                " 爱色丽美国",
+                "爱色丽美国",
                 "    美国密歇根州大激流市49512",
                 "    电话：(800) 248-9748 或(616) 803-2100",
                 "    传真：(800) 292-4437 或(616) 803-2705"
             ],
             "English_address": [
-                " X-Rite USA ",
+                "X-Rite USA ",
                 "    4300 44th St. SE Grand Rapids, MI 49512",
                 "    Tel：(800) 248 9748 or：(616) 803 2100",
                 "    Fax：(800) 292 4437 or：(616) 803 2705"

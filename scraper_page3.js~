@@ -51,6 +51,7 @@ function scrape(){
 			for(var i=0; i < addressIndex; i++)
 			{
 				createContact();
+				text[i] = S(text[i]).trim().s;
 				Contact[i].Chinese_address = S(text[i]).lines();
 			}
 
@@ -65,15 +66,13 @@ function scrape(){
      		   	}).get();
     			}, function(text) {
 			addressIndex = text.length;
-			
-			//Contact = [];
 
 			for(var i=0; i < addressIndex; i++)
 			{
+				text[i] = S(text[i]).trim().s;
 				Contact[i].English_address = S(text[i]).lines();
 			}
 
-			//ContactInfo = Contact;
 			json.ContactInfo = ContactInfo;
 
 			writeToJson(json);
